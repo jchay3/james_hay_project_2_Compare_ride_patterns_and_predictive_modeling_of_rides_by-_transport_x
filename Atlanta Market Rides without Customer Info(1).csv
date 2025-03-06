@@ -1,0 +1,191 @@
+Past Rides,,,,,,,,,,,,,,,,,,,,,,
+ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pickup_dispatch_text,pickup_driver_zone,departure,dropoff_driver_zone,ride_start_date_time,ride_end_date_time,customer_mobile,ride_status,allow_start_ride_at,allow_start_ride_description,long_distance_pickup_fee,long_distance_pickup_min_passengers,checkedin_passengers_after_finish_boarding_confirmed_count,age_surge_charge,is_rescan_data_available,total_revenue,ride_miles
+555847,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,729 Brittain Drive Northwest,,03/04/2025 10:23 PM (EST),03/04/2025 10:30 PM (EST),4042858581,Completed,,,0,0,0,0,0,20.64,0.81
+555751,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,North Avenue Apartments,,03/04/2025 08:01 PM (EST),03/04/2025 08:05 PM (EST),6789952504,Completed,,,0,0,0,0,0,16.05,1.19
+555723,Fode Soumah,Scheduled,A,Fode Soumah,North Avenue Apartments,Radius 1,,Buckhead Fight Club,,03/04/2025 06:42 PM (EST),03/04/2025 06:57 PM (EST),3013370896,Completed,,,0,0,0,0,0,46.8,8.1
+555626,Fode Soumah,Ride Now,B,Fode Soumah,Home Park,,,955 Spring Street Northwest,,03/03/2025 09:14 PM (EST),03/03/2025 09:21 PM (EST),6178240853,Completed,,,0,0,0,0,0,16.23,1.31
+555599,Fode Soumah,Ride Now,C,Fode Soumah,Buckhead Fight Club,,,120 North Avenue Northwest,,03/03/2025 08:39 PM (EST),03/03/2025 08:53 PM (EST),4433559115,Completed,,,0,0,0,0,0,52.64,7.35
+555594,Fode Soumah,Ride Now,A,Fode Soumah,Georgia Tech,,,1085 Howell Mill Road,,03/03/2025 08:01 PM (EST),03/03/2025 08:09 PM (EST),9043255654,Completed,,,0,0,0,0,0,16.32,1.37
+555579,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,NAV Dining Hall,,03/03/2025 07:19 PM (EST),03/03/2025 07:26 PM (EST),4086139444,Completed,,,0,0,0,0,0,16.23,1.32
+555576,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Café Intermezzo - Midtown,,03/03/2025 07:00 PM (EST),03/03/2025 07:06 PM (EST),4086139444,Completed,,,0,0,0,0,0,14.79,0.34
+555569,Fode Soumah,Ride Now,B,Fode Soumah,Georgia Tech,,,The Mark Atlanta,,03/03/2025 06:32 PM (EST),03/03/2025 06:38 PM (EST),4044968974,Completed,,,0,0,0,0,0,21.56,1.27
+555125,Fode Soumah,Ride Now,BB,Fode Soumah,South Tuxedo Park,,,Sigma Chi Fraternity - Beta Psi Chapter,,03/02/2025 03:05 AM (EST),03/02/2025 03:20 AM (EST),4043869320,Completed,,,0,0,0,0,0,76.88,9.03
+555049,Fode Soumah,Ride Now,A,Fode Soumah,Lindbergh,,,610 Hillpine Drive Northeast,,03/02/2025 02:42 AM (EST),03/02/2025 02:51 AM (EST),4046268810,Completed,,,0,0,0,0,0,81.48,2.17
+554324,Fode Soumah,Ride Now,BB,Fode Soumah,Downtown Atlanta,,,Future Atlanta,,03/02/2025 12:34 AM (EST),03/02/2025 12:40 AM (EST),6037065592,Completed,,,0,0,0,0,0,93.94,1.06
+554154,Fode Soumah,Scheduled,N/A,Fode Soumah,Courtland Grand Hotel,Radius 1,,50 Lower Alabama Street suite 180,,03/02/2025 12:17 AM (EST),03/02/2025 12:22 AM (EST),5714399302,Completed,,,0,0,0,0,1,73.5,0.98
+553745,Fode Soumah,Ride Now,AA,Fode Soumah,Georgia Tech,,,Bar South Buckhead,,03/01/2025 11:30 PM (EST),03/01/2025 11:49 PM (EST),4044082986,Completed,,,0,0,0,0,0,102.31,8.27
+553558,Fode Soumah,Ride Now,AA,Fode Soumah,Downtown Atlanta,,,Armstrong Residence Hall,,03/01/2025 11:03 PM (EST),03/01/2025 11:19 PM (EST),3214408812,Completed,,,0,0,0,0,0,34.62,3.59
+553451,Fode Soumah,Ride Now,N/A,Fode Soumah,Kinetic,,,165 Courtland Street Northeast,,03/01/2025 10:47 PM (EST),03/01/2025 10:56 PM (EST),9049556810,Completed,,,0,0,0,0,1,23.08,2.03
+553237,Fode Soumah,Ride Now,BB,Fode Soumah,Old Fourth Ward,,,Little Spirit,,03/01/2025 10:26 PM (EST),03/01/2025 10:34 PM (EST),6787359298,Completed,,,0,0,0,0,0,85.55,0.8
+553133,Fode Soumah,Ride Now,AA,Fode Soumah,W21 parking lot,,,Courtland Grand Hotel,,03/01/2025 09:59 PM (EST),03/01/2025 10:11 PM (EST),4087264669,Completed,,,0,0,0,0,0,51.48,1.93
+553015,Fode Soumah,Ride Now,A,Fode Soumah,Inman Park,,,Kappa Alpha Order - Alpha Sigma Chapter,,03/01/2025 09:27 PM (EST),03/01/2025 09:42 PM (EST),4708999899,Completed,,,0,0,0,0,0,31.66,3.43
+552877,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Neighbor's Pub,,03/01/2025 08:55 PM (EST),03/01/2025 09:06 PM (EST),7705085798,Completed,,,0,0,0,0,0,35.58,2.42
+552613,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Alpha Chi Omega Sorority - Epsilon Phi Chapter,,03/01/2025 08:02 PM (EST),03/01/2025 08:10 PM (EST),4044476808,Completed,,,0,0,0,0,0,15.99,1.14
+552418,Fode Soumah,Ride Now,A,Fode Soumah,955 Spring Street Northwest,,,Palo Santo,,03/01/2025 07:22 PM (EST),03/01/2025 07:32 PM (EST),7542440576,Completed,,,0,0,0,0,0,23.24,2.14
+552280,Fode Soumah,Ride Now,A,Fode Soumah,Inman Park,,,764 Fowler Street Northwest,,03/01/2025 06:46 PM (EST),03/01/2025 07:05 PM (EST),7065941678,Completed,,,0,0,0,0,0,54.81,2.84
+552097,Fode Soumah,Scheduled,C,Fode Soumah,1395 Towne Estates Drive Northeast,Radius 3,,Barcelona Wine Bar,,03/01/2025 05:53 PM (EST),03/01/2025 06:34 PM (EST),6787081272,Completed,,,0,0,0,0,0,89.9,11.07
+551198,Fode Soumah,Ride Now,C,Fode Soumah,South Tuxedo Park,,,Perry Residence Hall,,03/01/2025 02:25 AM (EST),03/01/2025 02:41 AM (EST),2623918792,Completed,,,0,0,0,0,0,48.84,8.94
+551074,Fode Soumah,Ride Now,BB,Fode Soumah,South Tuxedo Park,,,Perry Residence Hall,,03/01/2025 01:53 AM (EST),03/01/2025 02:06 AM (EST),8138604967,Completed,,,0,0,0,0,0,48.84,8.94
+550946,Fode Soumah,Ride Now,BB,Fode Soumah,South Tuxedo Park,,,11 Eagle Row,,03/01/2025 01:16 AM (EST),03/01/2025 01:30 AM (EST),5167281706,Completed,,,0,0,0,0,0,36.6,6.69
+550843,Fode Soumah,Ride Now,B,Fode Soumah,South Tuxedo Park,,,Whistler,,03/01/2025 12:39 AM (EST),03/01/2025 12:51 AM (EST),7063476475,Completed,,,0,0,0,0,0,40.56,4.82
+550602,Fode Soumah,Ride Now,BB,Fode Soumah,Courtland Grand Hotel,,,Square on Fifth Apartments,,03/01/2025 12:11 AM (EST),03/01/2025 12:18 AM (EST),6784144502,Completed,,,0,0,0,0,0,24,2.6
+550344,Fode Soumah,Scheduled,BB,Fode Soumah,Home Park,Radius 1,,Tongue & Groove,,02/28/2025 11:47 PM (EST),03/01/2025 12:00 AM (EST),4705154286,Completed,,,0,0,0,0,0,70.4,5.76
+549947,Fode Soumah,Ride Now,CC,Fode Soumah,Georgia Tech,,,Bar South Buckhead,,02/28/2025 11:07 PM (EST),02/28/2025 11:25 PM (EST),7622153175,Completed,,,0,0,0,0,0,102.71,8.34
+549815,Fode Soumah,Ride Now,A,Fode Soumah,Clifton Community,,,Lost Dog Tavern,,02/28/2025 10:25 PM (EST),02/28/2025 10:45 PM (EST),4047401140,Completed,,,0,0,0,0,0,71.6,6.16
+549416,Fode Soumah,Ride Now,C,Fode Soumah,4542 Meadow Valley Drive Northeast,,,Midtown Bowl,,02/28/2025 08:48 PM (EST),02/28/2025 09:08 PM (EST),7709255214,Completed,,,0,0,0,0,0,64.17,6.05
+549253,Fode Soumah,Ride Now,D,Fode Soumah,Underwood,,,Lips Drag Queen Show Palace,,02/28/2025 07:30 PM (EST),02/28/2025 07:56 PM (EST),4045584850,Completed,,,0,0,0,0,0,76.88,12.61
+549010,Fode Soumah,Ride Now,B,Fode Soumah,Home Park,,,Beta Theta Pi,,02/28/2025 03:07 AM (EST),02/28/2025 03:12 AM (EST),7063082177,Completed,,,0,0,0,0,0,22.64,1.81
+548977,Fode Soumah,Ride Now,C,Fode Soumah,South Tuxedo Park,,,Cook Out,,02/28/2025 02:39 AM (EST),02/28/2025 02:50 AM (EST),2069539933,Completed,,,0,0,0,0,0,79.6,13.47
+548951,Fode Soumah,Ride Now,B,Fode Soumah,South Tuxedo Park,,,Cook Out,,02/28/2025 02:15 AM (EST),02/28/2025 02:25 AM (EST),9084565947,Completed,,,0,0,0,0,0,61.11,4.92
+548798,Fode Soumah,Ride Now,B,Fode Soumah,South Tuxedo Park,,,18 Eagle Row,,02/28/2025 01:00 AM (EST),02/28/2025 01:18 AM (EST),5618471098,Completed,,,0,0,0,0,0,36.75,6.8
+548690,Fode Soumah,Scheduled,A,Fode Soumah,1578 Avenue Place,Radius 2,,Tongue & Groove,,02/28/2025 12:19 AM (EST),02/28/2025 12:30 AM (EST),4707557166,Completed,,,0,0,0,0,0,63.6,3.5
+548463,Fode Soumah,Ride Now,C,Fode Soumah,Inman Park,,,2 Eagle Row,,02/27/2025 11:25 PM (EST),02/27/2025 11:37 PM (EST),4436807120,Completed,,,0,0,0,0,0,32.05,3.65
+548307,Fode Soumah,Ride Now,A,Fode Soumah,Toco Hills Town Center,,,11 Eagle Row,,02/27/2025 10:40 PM (EST),02/27/2025 10:48 PM (EST),5167281706,Completed,,,0,0,0,0,0,23.24,2.14
+548017,Fode Soumah,Ride Now,C,Fode Soumah,Clifton Community,,,Chili's Grill & Bar,,02/27/2025 09:19 PM (EST),02/27/2025 09:26 PM (EST),5167281706,Completed,,,0,0,0,0,0,23.08,2.02
+547896,Fode Soumah,Scheduled,A,Fode Soumah,Centennial Place,Radius 1,,Hartsfield Jackson Atlanta International Airport- Office Of Airport Operations,,02/27/2025 08:22 PM (EST),02/27/2025 08:40 PM (EST),4704244202,Completed,,,0,0,0,0,0,68.88,10.12
+547854,Fode Soumah,Scheduled,A,Fode Soumah,Midtown,Radius 1,,729 Brittain Drive Northwest,,02/27/2025 07:57 PM (EST),02/27/2025 08:03 PM (EST),7703010849,Completed,,,0,0,0,0,0,20.16,0.55
+547834,Fode Soumah,Scheduled,A,Fode Soumah,Midtown,Radius 1,,729 Brittain Drive Northwest,,02/27/2025 07:14 PM (EST),02/27/2025 07:18 PM (EST),2295481422,Completed,,,0,0,0,0,0,20.28,0.63
+547777,Fode Soumah,Scheduled,B,Fode Soumah,Clifton Community,Radius 2,,Hartsfield Jackson Atlanta International Airport- Office Of Airport Operations,,02/27/2025 05:24 PM (EST),02/27/2025 06:13 PM (EST),3474093010,Completed,,,0,0,0,0,0,60.12,13.65
+547659,Fode Soumah,Scheduled,A,Fode Soumah,Clifton Community,Radius 2,,50 Lower Alabama Street,,02/26/2025 11:27 PM (EST),02/26/2025 11:45 PM (EST),6823008251,Completed,,,0,0,0,0,0,57.92,6.43
+547628,Fode Soumah,Scheduled,B,Fode Soumah,Inman Park,Radius 1,,1526 North Decatur Road,,02/26/2025 10:22 PM (EST),02/26/2025 10:33 PM (EST),7866143328,Completed,,,0,0,0,0,0,30.65,2.93
+547547,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,North Avenue Apartments,,02/26/2025 07:31 PM (EST),02/26/2025 07:38 PM (EST),6789952504,Completed,,,0,0,0,0,0,15.72,0.97
+546738,Fode Soumah,Ride Now,B,Fode Soumah,El Malo,,,641 North Avenue Northeast,,02/23/2025 02:27 AM (EST),02/23/2025 02:37 AM (EST),4786620103,Completed,,,0,0,0,0,0,71.04,2.4
+546669,Fode Soumah,Ride Now,B,Fode Soumah,Piedmont Heights,,,699 Spring Street Northwest,,02/23/2025 02:03 AM (EST),02/23/2025 02:09 AM (EST),4704205384,Completed,,,0,0,0,0,0,29.55,2.38
+546470,Fode Soumah,Ride Now,C,Fode Soumah,South Tuxedo Park,,,714 Techwood Drive Northwest,,02/23/2025 01:30 AM (EST),02/23/2025 01:45 AM (EST),9547404562,Completed,,,0,0,0,0,0,79.4,8.45
+546265,Fode Soumah,Ride Now,B,Fode Soumah,South Tuxedo Park,,,Kappa Alpha Order - Alpha Sigma Chapter,,02/23/2025 12:48 AM (EST),02/23/2025 01:04 AM (EST),9129637533,Completed,,,0,0,0,0,0,89.54,8.92
+546076,Fode Soumah,Ride Now,BB,Fode Soumah,South Tuxedo Park,,,Johnny's Hideaway,,02/23/2025 12:30 AM (EST),02/23/2025 12:34 AM (EST),4043458480,Completed,,,0,0,0,0,0,48.87,1.35
+545819,Fode Soumah,Ride Now,BB,Fode Soumah,Toco Hills Town Center,,,Johnny's Hideaway,,02/23/2025 12:03 AM (EST),02/23/2025 12:16 AM (EST),9142165382,Completed,,,0,0,0,0,0,44.52,7.03
+545658,Fode Soumah,Ride Now,AA,Fode Soumah,Clifton Community,,,Maggie's Neighborhood Bar & Grill,,02/22/2025 11:48 PM (EST),02/22/2025 11:56 PM (EST),7188771003,Completed,,,0,0,0,0,0,42.28,2.7
+545434,Fode Soumah,Ride Now,AA,Fode Soumah,Clifton Community,,,1563 Mason Mill Road Northeast,,02/22/2025 11:31 PM (EST),02/22/2025 11:36 PM (EST),2017558878,Completed,,,0,0,0,0,0,71.76,1.53
+545077,Fode Soumah,Scheduled,BB,Fode Soumah,Clifton Community,Radius 2,,1563 Mason Mill Road Northeast,,02/22/2025 11:15 PM (EST),02/22/2025 11:21 PM (EST),2013646978,Completed,,,0,0,0,0,0,60.83,1.55
+544896,Fode Soumah,Ride Now,CC,Fode Soumah,Church St,,,Maggie's Neighborhood Bar & Grill,,02/22/2025 10:42 PM (EST),02/22/2025 10:51 PM (EST),7732555479,Completed,,,0,0,0,0,0,58.32,3.87
+544561,Fode Soumah,Ride Now,C,Fode Soumah,1511 Highland Lake Circle,,,Happy Karaoke,,02/22/2025 10:06 PM (EST),02/22/2025 10:22 PM (EST),3462280117,Completed,,,0,0,0,0,0,49.62,9.27
+544372,Fode Soumah,Scheduled,AA,Fode Soumah,Downtown Atlanta,Radius 1,,847 Techwood Drive Northwest,,02/22/2025 09:26 PM (EST),02/22/2025 09:33 PM (EST),4704281754,Completed,,,0,0,0,0,0,29.75,2.49
+544266,Fode Soumah,Ride Now,AA,Fode Soumah,Downtown Atlanta,,,800 Fowler Street,,02/22/2025 09:04 PM (EST),02/22/2025 09:10 PM (EST),2153856767,Completed,,,0,0,0,0,0,45.36,1.83
+544172,Fode Soumah,Ride Now,A,Fode Soumah,Alpha Phi Sorority,,,Big Softie,,02/22/2025 08:37 PM (EST),02/22/2025 08:49 PM (EST),4048349003,Completed,,,0,0,0,0,0,23.88,2.54
+543899,Fode Soumah,Ride Now,BB,Fode Soumah,Old Fourth Ward,,,Pour Taproom-Beltline,,02/22/2025 08:07 PM (EST),02/22/2025 08:14 PM (EST),8649821903,Completed,,,0,0,0,0,0,29.85,1.37
+543798,Fode Soumah,Ride Now,AA,Fode Soumah,Home Park,,,Mercedes-Benz Stadium - Home Depot Backyard,,02/22/2025 07:30 PM (EST),02/22/2025 07:48 PM (EST),9493128823,Completed,,,0,0,0,0,0,27.48,2.41
+543718,Fode Soumah,Scheduled,AA,Fode Soumah,Alpha Xi Delta Sorority - Gamma Eta Chapter,Radius 1,,Mercedes-Benz Stadium,,02/22/2025 06:51 PM (EST),02/22/2025 07:13 PM (EST),7279462257,Completed,,,0,0,0,0,1,66.11,2.65
+543580,Fode Soumah,Scheduled,C,Fode Soumah,Cortez Way NE,Radius 3,,Petite Violette,,02/22/2025 06:12 PM (EST),02/22/2025 06:24 PM (EST),4044316570,Completed,,,0,0,0,0,0,73.81,2.96
+542888,Fode Soumah,Ride Now,A,Fode Soumah,South Tuxedo Park,,,Georgia Tech,,02/22/2025 02:16 AM (EST),02/22/2025 02:32 AM (EST),6789777135,Completed,,,0,0,0,0,0,35.2,5.75
+542778,Fode Soumah,Ride Now,B,Fode Soumah,South Tuxedo Park,,,792 Techwood Drive Northwest,,02/22/2025 01:41 AM (EST),02/22/2025 01:57 AM (EST),3477947932,Completed,,,0,0,0,0,0,89.31,5.18
+542536,Fode Soumah,Ride Now,B,Fode Soumah,Sherwood Forest,,,Pisces,,02/22/2025 01:03 AM (EST),02/22/2025 01:15 AM (EST),4046552636,Completed,,,0,0,0,0,0,33.45,4.57
+542322,Fode Soumah,Ride Now,BB,Fode Soumah,Briar Cove Cir,,,1349 Arborvista Drive Northeast,,02/22/2025 12:16 AM (EST),02/22/2025 12:18 AM (EST),4708274253,Completed,,,0,0,0,0,0,51.2,0.73
+542015,Fode Soumah,Ride Now,AA,Fode Soumah,Centennial Place,,,Lost Dog Tavern,,02/21/2025 11:45 PM (EST),02/22/2025 12:00 AM (EST),4705462976,Completed,,,0,0,0,0,0,98.4,9.08
+541673,Fode Soumah,Ride Now,N/A,Fode Soumah,Georgia Tech,,,50 Upper Alabama Street,,02/21/2025 11:12 PM (EST),02/21/2025 11:28 PM (EST),4045289753,Completed,,,0,0,0,0,1,38.88,3.88
+541432,Fode Soumah,Ride Now,B,Fode Soumah,Georgia Tech,,,Dive Bar Buckhead,,02/21/2025 10:27 PM (EST),02/21/2025 10:46 PM (EST),4043699904,Completed,,,0,0,0,0,0,109.9,6.69
+541175,Fode Soumah,Ride Now,C,Fode Soumah,Gatehurst Ct SE,,,385 Golfview Road Northwest,,02/21/2025 09:44 PM (EST),02/21/2025 10:02 PM (EST),6784281302,Completed,,,0,0,0,0,0,118.56,11.38
+541057,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,The Connector Apartments,,02/21/2025 09:11 PM (EST),02/21/2025 09:15 PM (EST),4043756368,Completed,,,0,0,0,0,0,29.7,0.37
+540688,Fode Soumah,Scheduled,A,Fode Soumah,Georgia Tech,Radius 1,,2215 D and B Drive Southeast,,02/21/2025 07:39 PM (EST),02/21/2025 08:05 PM (EST),8488882351,Completed,,,0,0,0,0,0,145.04,14.47
+540561,Fode Soumah,Scheduled,A,Fode Soumah,Art Of Wax Brazilian Waxing & Sugaring,Radius 2,,Muchacho,,02/21/2025 06:51 PM (EST),02/21/2025 07:09 PM (EST),6179391162,Completed,,,0,0,0,0,0,34.5,5.26
+540154,Fode Soumah,Ride Now,A,Fode Soumah,El Malo,,,2 Eagle Row,,02/21/2025 12:53 AM (EST),02/21/2025 01:11 AM (EST),6504398124,Completed,,,0,0,0,0,0,47.81,5.03
+539985,Fode Soumah,Ride Now,C,Fode Soumah,Georgia Tech,,,El Malo,,02/21/2025 12:24 AM (EST),02/21/2025 12:33 AM (EST),4042423083,Completed,,,0,0,0,0,0,71.17,3.83
+539828,Fode Soumah,Ride Now,AA,Fode Soumah,South Tuxedo Park,,,1530 Avenue Place,,02/20/2025 11:39 PM (EST),02/20/2025 11:56 PM (EST),9144715308,Completed,,,0,0,0,0,0,99.82,6.05
+539501,Fode Soumah,Scheduled,BB,Fode Soumah,189 5th Street Northwest,Radius 1,,Bar South Buckhead,,02/20/2025 11:16 PM (EST),02/20/2025 11:33 PM (EST),6783430884,Completed,,,0,0,0,0,0,47.16,8.23
+539475,Fode Soumah,Ride Now,AA,Fode Soumah,Georgia Tech,,,Ormsby's,,02/20/2025 10:53 PM (EST),02/20/2025 10:58 PM (EST),6789088222,Completed,,,0,0,0,0,0,49.59,1.51
+539407,Fode Soumah,Ride Now,AA,Fode Soumah,Home Park,,,Beta Theta Pi,,02/20/2025 10:37 PM (EST),02/20/2025 10:43 PM (EST),2013443631,Completed,,,0,0,0,0,0,41.72,1.35
+539357,Fode Soumah,Ride Now,C,Fode Soumah,Home Park,,,840 Techwood Drive Northwest,,02/20/2025 10:27 PM (EST),02/20/2025 10:30 PM (EST),6784464284,Completed,,,0,0,0,0,0,15.78,1.01
+539236,Fode Soumah,Ride Now,C,Fode Soumah,Raoul Hall,,,Sanctuary Nightclub,,02/20/2025 09:51 PM (EST),02/20/2025 10:10 PM (EST),4042348788,Completed,,,0,0,0,0,0,42.78,6.04
+539034,Fode Soumah,Ride Now,BB,Fode Soumah,Inman Park,,,The Connector Apartments,,02/20/2025 09:14 PM (EST),02/20/2025 09:24 PM (EST),2406055928,Completed,,,0,0,0,0,0,23.96,2.58
+538979,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Alpha Gamma Delta Sorority,,02/20/2025 08:51 PM (EST),02/20/2025 08:58 PM (EST),6789204067,Completed,,,0,0,0,0,0,45.54,0.6
+538868,Fode Soumah,Ride Now,B,Fode Soumah,Butler Street,,,One12 Courtland,,02/20/2025 08:26 PM (EST),02/20/2025 08:30 PM (EST),3092870776,Completed,,,0,0,0,0,0,30.72,0.71
+538738,Fode Soumah,Ride Now,B,Fode Soumah,Midtown,,,state farm arena,,02/20/2025 07:41 PM (EST),02/20/2025 07:59 PM (EST),8508963828,Completed,,,0,0,0,0,0,21.92,1.46
+538693,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,1715 Howell Mill Road Northwest d 23,,02/20/2025 07:16 PM (EST),02/20/2025 07:26 PM (EST),8508515855,Completed,,,0,0,0,0,0,30.8,3.01
+538527,Fode Soumah,Ride Now,BB,Fode Soumah,Downtown Atlanta,,,11 Eagle Row,,02/20/2025 02:10 AM (EST),02/20/2025 02:27 AM (EST),4158069175,Completed,,,0,0,0,0,0,36.36,6.53
+538522,Fode Soumah,Ride Now,A,Fode Soumah,Downtown Atlanta,,,220 Ferst Drive,,02/20/2025 01:35 AM (EST),02/20/2025 01:44 AM (EST),4046657164,Completed,,,0,0,0,0,0,32.56,3.97
+538494,Fode Soumah,Ride Now,A,Fode Soumah,Georgia Tech,,,Smith Residence Hall,,02/20/2025 12:20 AM (EST),02/20/2025 12:29 AM (EST),6782006204,Completed,,,0,0,0,0,0,20.76,0.86
+538450,Fode Soumah,Ride Now,B,Fode Soumah,Midtown,,,North Avenue East,,02/19/2025 11:29 PM (EST),02/19/2025 11:38 PM (EST),7069349092,Completed,,,0,0,0,0,0,28.95,2.09
+538401,Fode Soumah,Scheduled,B,Fode Soumah,11 Eagle Row,Radius 2,,50 Upper Alabama Street,,02/19/2025 10:47 PM (EST),02/19/2025 11:06 PM (EST),4158069175,Completed,,,0,0,0,0,0,64.8,6.3
+538291,Fode Soumah,Ride Now,A,Fode Soumah,1535 Mason Mill Road Northeast,,,The Southern Gentleman,,02/19/2025 06:48 PM (EST),02/19/2025 07:10 PM (EST),9085176147,Completed,,,0,0,0,0,0,49.35,5.8
+537927,Fode Soumah,Ride Now,A,Fode Soumah,The Mark Atlanta,,,Campus Recreation Center Parking Deck,,02/17/2025 07:50 PM (EST),02/17/2025 07:56 PM (EST),5714399302,Completed,,,0,0,0,0,0,32.46,1.31
+537138,Fode Soumah,Ride Now,CC,Fode Soumah,South Tuxedo Park,,,Cook Out,,02/16/2025 02:16 AM (EST),02/16/2025 02:29 AM (EST),5165215895,Completed,,,0,0,0,0,1,37,5.19
+537078,Fode Soumah,Ride Now,AA,Fode Soumah,Home Park,,,840 Techwood Drive Northwest,,02/16/2025 01:47 AM (EST),02/16/2025 01:53 AM (EST),4046609909,Completed,,,0,0,0,0,0,50.13,1.63
+536950,Fode Soumah,Ride Now,C,Fode Soumah,Peachtree Blvd,,,Matheson Residence Hall,,02/16/2025 01:21 AM (EST),02/16/2025 01:35 AM (EST),7706177066,Completed,,,0,0,0,0,0,81.9,11.33
+536743,Fode Soumah,Ride Now,C,Fode Soumah,Clifton Community,,,Maggie's Neighborhood Bar & Grill,,02/16/2025 12:53 AM (EST),02/16/2025 01:01 AM (EST),9175965645,Completed,,,0,0,0,0,0,35.88,2.55
+536133,Fode Soumah,Ride Now,CC,Fode Soumah,Midtown,,,BLOCK & DRUM,,02/15/2025 11:50 PM (EST),02/16/2025 12:11 AM (EST),6789780394,Completed,,,0,0,0,0,0,56.34,12.04
+535423,Fode Soumah,Ride Now,CC,Fode Soumah,Centennial Place,,,BLOCK & DRUM,,02/15/2025 11:11 PM (EST),02/15/2025 11:31 PM (EST),5714374107,Completed,,,0,0,0,0,0,78,11.63
+535106,Fode Soumah,Ride Now,CC,Fode Soumah,Chastain Park,,,Highland Tap,,02/15/2025 10:29 PM (EST),02/15/2025 10:54 PM (EST),9122663867,Completed,,,0,0,0,0,0,82.9,7.99
+534866,Fode Soumah,Scheduled,C,Fode Soumah,Centennial Place,Radius 1,,BLOCK & DRUM,,02/15/2025 09:41 PM (EST),02/15/2025 10:06 PM (EST),4048195945,Completed,,,0,0,0,0,0,83.07,11.65
+534593,Fode Soumah,Scheduled,D,Fode Soumah,Hugh Howell Rd,Radius 4,,11 Eagle Row,,02/15/2025 08:35 PM (EST),02/15/2025 08:54 PM (EST),9172420744,Completed,,,0,0,0,0,0,58.73,9.55
+534423,Fode Soumah,Scheduled,C,Fode Soumah,Clifton Community,Radius 2,,Double Zero,,02/15/2025 07:47 PM (EST),02/15/2025 07:51 PM (EST),2016553940,Completed,,,0,0,0,0,0,21.24,1.1
+534364,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Big Game,,02/15/2025 07:04 PM (EST),02/15/2025 07:15 PM (EST),4048085482,Completed,,,0,0,0,0,0,22.68,1.83
+534124,Fode Soumah,Ride Now,B,Fode Soumah,Buckhead Triangle,,,Painted Park,,02/15/2025 05:34 PM (EST),02/15/2025 06:05 PM (EST),7703134538,Completed,,,0,0,0,0,0,80.28,10.89
+534071,Fode Soumah,Ride Now,A,Fode Soumah,Buford Hwy NE,,,11 Eagle Row,,02/15/2025 04:33 PM (EST),02/15/2025 04:47 PM (EST),9547892127,Completed,,,0,0,0,0,0,32.85,4.18
+533769,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,NAV Dining Hall,,02/15/2025 03:26 AM (EST),02/15/2025 03:32 AM (EST),6786773356,Completed,,,0,0,0,0,0,20.96,0.96
+533663,Fode Soumah,Ride Now,B,Fode Soumah,South Tuxedo Park,,,Hub Atlanta,,02/15/2025 03:11 AM (EST),02/15/2025 03:22 AM (EST),6786773356,Completed,,,0,0,0,0,0,93.67,4.59
+533592,Fode Soumah,Ride Now,A,Fode Soumah,South Tuxedo Park,,,The Mark Atlanta,,02/15/2025 02:28 AM (EST),02/15/2025 02:43 AM (EST),7702839926,Completed,,,0,0,0,0,0,93.8,4.62
+533485,Fode Soumah,Ride Now,A,Fode Soumah,South Tuxedo Park,,,Square on Fifth Apartments,,02/15/2025 01:36 AM (EST),02/15/2025 01:47 AM (EST),7708610002,Completed,,,0,0,0,0,0,33.75,4.79
+533196,Fode Soumah,Ride Now,BB,Fode Soumah,Midtown,,,Thirty,,02/15/2025 12:51 AM (EST),02/15/2025 01:05 AM (EST),7702839926,Completed,2025-02-14 23:51:25,Accident,0,0,0,0,1,92.16,7.78
+532995,Fode Soumah,Scheduled,BB,Fode Soumah,Rock Springs Cir NE,Radius 1,,Blind Willie's,,02/15/2025 12:17 AM (EST),02/15/2025 12:22 AM (EST),5073582265,Completed,,,0,0,0,0,0,28.25,1.79
+532777,Fode Soumah,Ride Now,BB,Fode Soumah,Georgia Tech,,,Bar South Buckhead,,02/14/2025 11:37 PM (EST),02/14/2025 11:51 PM (EST),4045363500,Completed,,,0,0,0,0,0,114.8,9.08
+532763,Fode Soumah,Ride Now,CC,Fode Soumah,Nine15 Midtown,,,946 Piedmont Avenue Northeast,,02/14/2025 11:16 PM (EST),02/14/2025 11:20 PM (EST),4694328292,Completed,,,0,0,0,0,0,43.84,0.39
+532545,Fode Soumah,Ride Now,BB,Fode Soumah,Atlantic Station,,,Square on Fifth Apartments,,02/14/2025 10:47 PM (EST),02/14/2025 10:54 PM (EST),4236673540,Completed,,,0,0,0,0,0,22,1.49
+532378,Fode Soumah,Ride Now,C,Fode Soumah,Clifton Community,,,Lost Dog Tavern,,02/14/2025 10:11 PM (EST),02/14/2025 10:32 PM (EST),2066985082,Completed,,,0,0,0,0,0,42.66,6
+532044,Fode Soumah,Scheduled,A,Fode Soumah,1563 Mason Mill Road Northeast,Radius 2,,Gio’s Chicken Amalfitano,,02/14/2025 07:55 PM (EST),02/14/2025 08:14 PM (EST),9144009705,Completed,,,0,0,0,0,0,57.19,9.02
+531849,Fode Soumah,Ride Now,A,Fode Soumah,Home Park,,,Beta Theta Pi,,02/14/2025 02:29 AM (EST),02/14/2025 02:34 AM (EST),7062482267,Completed,,,0,0,0,0,0,28.45,1.87
+531785,Fode Soumah,Ride Now,B,Fode Soumah,Home Park,,,792 Techwood Drive Northwest,,02/14/2025 01:49 AM (EST),02/14/2025 01:55 AM (EST),4704205384,Completed,,,0,0,0,0,0,33.3,1.6
+531741,Fode Soumah,Ride Now,AA,Fode Soumah,South Tuxedo Park,,,Harrison Residence Hall,,02/14/2025 01:29 AM (EST),02/14/2025 01:40 AM (EST),4049712344,Completed,,,0,0,0,0,0,56.98,8.92
+531609,Fode Soumah,Ride Now,C,Fode Soumah,South Tuxedo Park,,,University House Midtown,,02/14/2025 12:56 AM (EST),02/14/2025 01:06 AM (EST),7705301475,Completed,,,0,0,0,0,0,80.77,4.7
+531534,Fode Soumah,Ride Now,B,Fode Soumah,Georgia Tech,,,699 Spring Street Northwest,,02/14/2025 12:23 AM (EST),02/14/2025 12:27 AM (EST),6783677145,Completed,,,0,0,0,0,0,25.25,0.59
+531417,Fode Soumah,Ride Now,BB,Fode Soumah,Georgia Tech,,,Northside Tavern,,02/14/2025 12:05 AM (EST),02/14/2025 12:11 AM (EST),9122864745,Completed,,,0,0,0,0,0,71.72,1.63
+531089,Fode Soumah,Ride Now,CC,Fode Soumah,Georgia Tech,,,Northside Tavern,,02/13/2025 11:30 PM (EST),02/13/2025 11:40 PM (EST),4044351495,Completed,,,0,0,0,0,0,77.84,1.62
+530853,Fode Soumah,Scheduled,A,Fode Soumah,The Hatchery,Radius 2,,Bar South Buckhead,,02/13/2025 10:51 PM (EST),02/13/2025 11:08 PM (EST),8477679938,Completed,,,0,0,0,0,0,35,5.63
+530559,Fode Soumah,Ride Now,B,Fode Soumah,Lindbergh Morosgo,,,1563 Mason Mill Road Northeast,,02/13/2025 09:29 PM (EST),02/13/2025 09:46 PM (EST),3125610653,Completed,,,0,0,0,0,0,47.25,4.79
+529981,Fode Soumah,Scheduled,B,Fode Soumah,11 Eagle Row,Radius 2,,764 Miami Circle Northeast suite 138,,02/13/2025 06:51 PM (EST),02/13/2025 07:16 PM (EST),8185217205,Completed,,,0,0,0,0,0,33.9,4.85
+529283,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Beta Theta Pi,,02/10/2025 11:06 PM (EST),02/10/2025 11:14 PM (EST),7708836782,Completed,,,0,0,0,0,0,31.08,0.86
+529231,Fode Soumah,Ride Now,B,Fode Soumah,Downtown Atlanta,,,NAV Dining Hall,,02/10/2025 07:51 PM (EST),02/10/2025 07:59 PM (EST),7703308865,Completed,,,0,0,0,0,0,22.24,1.6
+529158,Fode Soumah,Ride Now,D,Fode Soumah,Spring Valley,,,4233 Jonesboro Rd,,02/09/2025 11:48 PM (EST),02/10/2025 12:06 AM (EST),4703893731,Completed,,,0,0,0,0,0,61.38,10.55
+529117,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Woodruff North,,02/09/2025 10:32 PM (EST),02/09/2025 10:45 PM (EST),4076455702,Completed,,,0,0,0,0,0,23.82,2.49
+528653,Fode Soumah,Ride Now,A,Fode Soumah,South Tuxedo Park,,,Cloudman Residence Hall - Barron Hall,,02/09/2025 03:09 AM (EST),02/09/2025 03:25 AM (EST),7193737548,Completed,,,0,0,0,0,0,48.24,8.69
+528450,Fode Soumah,Ride Now,C,Fode Soumah,South Tuxedo Park,,,Woodruff Residence Hall,,02/09/2025 01:55 AM (EST),02/09/2025 02:11 AM (EST),6508502711,Completed,,,0,0,0,0,0,35.25,5.77
+528222,Fode Soumah,Ride Now,BB,Fode Soumah,South Tuxedo Park,,,Brown Residence Hall,,02/09/2025 01:08 AM (EST),02/09/2025 01:23 AM (EST),7324437358,Completed,,,0,0,0,0,0,56,8.59
+528016,Fode Soumah,Ride Now,B,Fode Soumah,Piedmont Heights,,,Alpha Phi Sorority,,02/09/2025 12:36 AM (EST),02/09/2025 12:45 AM (EST),2013443631,Completed,,,0,0,0,0,0,24.24,2.74
+527771,Fode Soumah,Ride Now,AA,Fode Soumah,Old Fourth Ward,,,1042 McMillan Street Northwest,,02/09/2025 12:10 AM (EST),02/09/2025 12:21 AM (EST),4128899613,Completed,,,0,0,0,0,0,32.05,3.65
+527343,Fode Soumah,Ride Now,CC,Fode Soumah,Home Park,,,Pisces,,02/08/2025 11:51 PM (EST),02/09/2025 12:02 AM (EST),3059628794,Completed,,,0,0,0,0,0,34.85,3.75
+526602,Fode Soumah,Ride Now,DD,Fode Soumah,Hidden Forest Ct,,,Lost Dog Tavern,,02/08/2025 10:59 PM (EST),02/08/2025 11:30 PM (EST),4702957808,Completed,,,0,0,0,0,0,175.56,19.93
+526493,Fode Soumah,Ride Now,BB,Fode Soumah,Midtown,,,Bar South Buckhead,,02/08/2025 09:56 PM (EST),02/08/2025 10:13 PM (EST),6783677145,Completed,,,0,0,0,0,1,64.96,8.88
+526207,Fode Soumah,Ride Now,AA,Fode Soumah,Georgia Tech,,,Bar South Buckhead,,02/08/2025 09:13 PM (EST),02/08/2025 09:36 PM (EST),4704135122,Completed,,,0,0,0,0,0,110.18,8.27
+526067,Fode Soumah,Ride Now,B,Fode Soumah,Midtown,,,Ladybird Grove & Mess Hall,,02/08/2025 08:40 PM (EST),02/08/2025 08:54 PM (EST),2013211561,Completed,,,0,0,0,0,0,54.72,2.81
+525920,Fode Soumah,Ride Now,B,Fode Soumah,Midtown,,,Superica,,02/08/2025 08:00 PM (EST),02/08/2025 08:14 PM (EST),4708999899,Completed,,,0,0,0,0,0,24.48,2.92
+525764,Fode Soumah,Ride Now,A,Fode Soumah,Alpha Phi Sorority,,,Rreal Tacos - West Midtown,,02/08/2025 07:27 PM (EST),02/08/2025 07:37 PM (EST),4047180703,Completed,,,0,0,0,0,0,49.32,1.45
+525642,Fode Soumah,Ride Now,B,Fode Soumah,Downtown Atlanta,,,Mercedes-Benz Stadium,,02/08/2025 06:49 PM (EST),02/08/2025 06:59 PM (EST),4026863565,Completed,,,0,0,0,0,0,55.6,1.62
+525528,Fode Soumah,Ride Now,C,Fode Soumah,Oak Grove Estates NE,,,Variety Playhouse,,02/08/2025 05:59 PM (EST),02/08/2025 06:25 PM (EST),6783629794,Completed,,,0,0,0,0,0,76.6,7.73
+525478,Fode Soumah,Ride Now,B,Fode Soumah,Toco Hills,,,11 Eagle Row,,02/08/2025 05:28 PM (EST),02/08/2025 05:37 PM (EST),9172420744,Completed,,,0,0,0,0,0,35.64,2.44
+524832,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,355 5th Street Northeast,,02/08/2025 02:56 AM (EST),02/08/2025 03:05 AM (EST),7145240804,Completed,,,0,0,0,0,0,31.5,0.98
+524773,Fode Soumah,Ride Now,A,Fode Soumah,South Tuxedo Park,,,Tau Kappa Epsilon,,02/08/2025 02:28 AM (EST),02/08/2025 02:41 AM (EST),7707781759,Completed,,,0,0,0,0,0,34.3,5.13
+524714,Fode Soumah,Ride Now,C,Fode Soumah,South Tuxedo Park,,,Tau Kappa Epsilon,,02/08/2025 02:20 AM (EST),02/08/2025 02:26 AM (EST),4704135122,Completed,,,0,0,4,0,0,75.68,5.21
+524533,Fode Soumah,Ride Now,C,Fode Soumah,South Tuxedo Park,,,Kappa Sigma Fraternity,,02/08/2025 01:42 AM (EST),02/08/2025 01:57 AM (EST),4043085212,Completed,,,0,0,0,0,0,68.4,5.09
+524278,Fode Soumah,Ride Now,BB,Fode Soumah,South Tuxedo Park,,,Kappa Alpha Order - Alpha Sigma Chapter,,02/08/2025 12:40 AM (EST),02/08/2025 01:05 AM (EST),7064249468,Completed,,,0,0,0,0,0,34.4,5.22
+524067,Fode Soumah,Ride Now,AA,Fode Soumah,Georgia Tech,,,30 Irby Avenue Northwest,,02/08/2025 12:16 AM (EST),02/08/2025 12:34 AM (EST),9175025531,Completed,,,0,0,0,0,0,108.55,8.14
+523856,Fode Soumah,Ride Now,BB,Fode Soumah,Midtown,,,Palo Santo,,02/07/2025 11:46 PM (EST),02/07/2025 11:59 PM (EST),4043374001,Completed,,,0,0,0,0,0,40.2,3.02
+523446,Fode Soumah,Ride Now,N/A,Fode Soumah,Battery Ave SE,,,Northside Tavern,,02/07/2025 11:19 PM (EST),02/07/2025 11:36 PM (EST),7043711797,Completed,,,0,0,0,0,1,97.3,9.33
+523304,Fode Soumah,Ride Now,CC,Fode Soumah,Beltline NE,,,Nine15 Midtown,,02/07/2025 10:49 PM (EST),02/07/2025 10:57 PM (EST),8328456030,Completed,,,0,0,0,0,0,65.25,2.16
+523058,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Crumbl - Toco Hills,,02/07/2025 09:47 PM (EST),02/07/2025 10:11 PM (EST),4055498884,Completed,,,0,0,0,0,0,83.71,7.61
+522911,Fode Soumah,Ride Now,A,Fode Soumah,Downtown Atlanta,,,University House Midtown,,02/07/2025 09:17 PM (EST),02/07/2025 09:26 PM (EST),9046074443,Completed,,,0,0,0,0,0,28.75,2
+522824,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Sigma Chi Fraternity - Beta Psi Chapter,,02/07/2025 08:50 PM (EST),02/07/2025 08:58 PM (EST),6788002323,Completed,,,0,0,0,0,0,35.91,0.75
+522634,Fode Soumah,Ride Now,B,Fode Soumah,Clifton Community,,,Rumi's Kitchen Colony Square,,02/07/2025 08:14 PM (EST),02/07/2025 08:31 PM (EST),9174285020,Completed,,,0,0,0,0,0,34.05,5
+522430,Fode Soumah,Scheduled,AA,Fode Soumah,12 Eagle Row,Radius 2,,4625 Lake Forrest Drive Northeast,,02/07/2025 07:11 PM (EST),02/07/2025 07:40 PM (EST),6507764676,Completed,,,0,0,0,0,0,72.99,8.86
+522393,Fode Soumah,Ride Now,A,Fode Soumah,Georgia Tech,,,Chabad at Emory,,02/07/2025 06:24 PM (EST),02/07/2025 06:46 PM (EST),4046262769,Completed,,,0,0,0,0,0,33.5,4.62
+522354,Fode Soumah,Ride Now,A,Fode Soumah,Georgia Tech,,,Georgia Aquarium,,02/07/2025 06:03 PM (EST),02/07/2025 06:14 PM (EST),9196320527,Completed,,,0,0,0,0,0,23.16,2.09
+522306,Fode Soumah,Ride Now,A,Fode Soumah,The Mark Atlanta,,,Campus Recreation Center Parking Deck,,02/07/2025 05:21 PM (EST),02/07/2025 05:31 PM (EST),5714399302,Completed,,,0,0,0,0,0,21.64,1.31
+522063,Fode Soumah,Ride Now,A,Fode Soumah,South Tuxedo Park,,,930 Spring Street Northwest,,02/07/2025 02:10 AM (EST),02/07/2025 02:22 AM (EST),4049801320,Completed,,,0,0,0,0,0,40.68,4.87
+521897,Fode Soumah,Ride Now,AA,Fode Soumah,Lindbergh,,,11 Eagle Row,,02/07/2025 01:09 AM (EST),02/07/2025 01:25 AM (EST),9085477191,Completed,,,0,0,0,0,0,78.84,4.17
+521801,Fode Soumah,Ride Now,B,Fode Soumah,Georgia Tech,,,Bar South Buckhead,,02/07/2025 12:32 AM (EST),02/07/2025 12:49 AM (EST),7068172804,Completed,,,0,0,0,0,0,62.96,8.27
+521662,Fode Soumah,Ride Now,BB,Fode Soumah,The Standard at Atlanta,,,MJQ Concourse,,02/07/2025 12:07 AM (EST),02/07/2025 12:14 AM (EST),4702728568,Completed,,,0,0,0,0,0,24.48,2.89
+521454,Fode Soumah,Ride Now,C,Fode Soumah,Glenn Residence Hall,,,Bar South Buckhead,,02/06/2025 11:33 PM (EST),02/06/2025 11:49 PM (EST),4044327879,Completed,,,0,0,0,0,0,47.58,8.42
+521252,Fode Soumah,Ride Now,BB,Fode Soumah,Georgia Tech,,,Lost Dog Tavern,,02/06/2025 10:49 PM (EST),02/06/2025 11:08 PM (EST),4049712344,Completed,,,0,0,0,0,0,47.25,8.27
+521131,Fode Soumah,Ride Now,B,Fode Soumah,Mason Mill Rd NE,,,Tongue & Groove,,02/06/2025 10:19 PM (EST),02/06/2025 10:35 PM (EST),2012507011,Completed,,,0,0,0,0,0,98.28,3.92
+520947,Fode Soumah,Scheduled,A,Fode Soumah,2 Eagle Row,Radius 2,,Tongue & Groove,,02/06/2025 09:46 PM (EST),02/06/2025 10:01 PM (EST),6504398124,Completed,,,0,0,1,0,0,84.63,4
+520619,Fode Soumah,Scheduled,AA,Fode Soumah,8 Eagle Row,Radius 2,,1384 Montevallo Circle,,02/06/2025 08:06 PM (EST),02/06/2025 08:20 PM (EST),6465122066,Completed,,,0,0,0,0,0,51.76,3.86
+520575,Fode Soumah,Ride Now,B,Fode Soumah,Inman Park,,,11 Eagle Row,,02/06/2025 07:28 PM (EST),02/06/2025 07:47 PM (EST),8576361765,Completed,,,0,0,0,0,0,38.1,3.47
+520546,Fode Soumah,Ride Now,B,Fode Soumah,Poncey-Highland,,,Alpha Phi Sorority,,02/06/2025 06:50 PM (EST),02/06/2025 07:08 PM (EST),4048349003,Completed,,,0,0,0,0,0,24.64,3.01
+520524,Fode Soumah,Scheduled,B,Fode Soumah,646 Means Drive,Radius 2,,Yeppa & Co.,,02/06/2025 05:33 PM (EST),02/06/2025 06:00 PM (EST),7733295182,Completed,,,0,0,0,0,0,34.9,5.53
+520464,Fode Soumah,Ride Now,B,Fode Soumah,South Tuxedo Park,,,699 Spring Street Northwest,,02/06/2025 01:03 AM (EST),02/06/2025 01:17 AM (EST),7065244447,Completed,,,0,0,0,0,0,48.37,5.31
+520430,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,MJQ Concourse,,02/05/2025 11:20 PM (EST),02/05/2025 11:32 PM (EST),4708973262,Completed,,,0,0,0,0,0,29.25,2.25
+520412,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Whistler,,02/05/2025 11:02 PM (EST),02/05/2025 11:08 PM (EST),4044303805,Completed,,,0,0,0,0,0,32.22,1.23
+520235,Fode Soumah,Scheduled,B,Fode Soumah,Clifton Community,Radius 2,,Gio’s Chicken Amalfitano,,02/05/2025 07:28 PM (EST),02/05/2025 07:51 PM (EST),8322455442,Completed,,,0,0,0,0,0,49.63,5.9
+520226,Fode Soumah,Scheduled,A,Fode Soumah,Clifton Community,Radius 2,,Hudson Grille - Little 5 Points,,02/05/2025 05:53 PM (EST),02/05/2025 06:11 PM (EST),2034612969,Completed,,,0,0,0,0,0,86.66,3.07
+520093,Fode Soumah,Ride Now,A,Fode Soumah,Clifton Community,,,Smith's Olde Bar,,02/04/2025 11:01 PM (EST),02/04/2025 11:14 PM (EST),6467404455,Completed,,,0,0,0,0,0,48.88,2.87
+520028,Fode Soumah,Ride Now,B,Fode Soumah,Old Fourth Ward,,,18 Eagle Row,,02/04/2025 10:12 PM (EST),02/04/2025 10:28 PM (EST),6172840818,Completed,,,0,0,0,0,0,39.06,3.98
+519978,Fode Soumah,Ride Now,B,Fode Soumah,Buckhead,,,Alpha Xi Delta Sorority - Gamma Eta Chapter,,02/04/2025 08:53 PM (EST),02/04/2025 09:06 PM (EST),6789107907,Completed,,,0,0,0,0,0,58.5,2.22
+519920,Fode Soumah,Ride Now,A,Fode Soumah,Midtown,,,Georgia Tech Campus Recreation Center,,02/04/2025 05:30 PM (EST),02/04/2025 05:49 PM (EST),7702839926,Completed,,,0,0,0,0,0,38.99,1.63
