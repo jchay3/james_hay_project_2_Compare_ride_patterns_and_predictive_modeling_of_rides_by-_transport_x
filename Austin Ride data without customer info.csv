@@ -1,4 +1,3 @@
-Past Rides,,,,,,,,,,,,,,,,,,,,,,
 ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pickup_dispatch_text,pickup_driver_zone,departure,dropoff_driver_zone,ride_start_date_time,ride_end_date_time,customer_mobile,ride_status,allow_start_ride_at,allow_start_ride_description,long_distance_pickup_fee,long_distance_pickup_min_passengers,checkedin_passengers_after_finish_boarding_confirmed_count,age_surge_charge,is_rescan_data_available,total_revenue,ride_miles
 555803,Vincent Iyamu,Ride Now,A,Vincent Iyamu,West Campus,,Downtown,Charles Alan Wright Fields at the Berry M. Whitaker Sports Complex,,03/04/2025 08:22 PM (CST),03/04/2025 08:35 PM (CST),8186011505,Completed,,,0,0,0,0,0,52.47,2.44
 555764,Vincent Iyamu,Scheduled,B,Vincent Iyamu,Convention Center District,Radius 1,Downtown,The Callaway House Austin,Downtown,03/04/2025 07:23 PM (CST),03/04/2025 07:35 PM (CST),2246320212,Completed,,,0,0,0,0,0,57.1,2.13
@@ -217,7 +216,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 544838,Moadh Tala,Ride Now,D,Moadh Tala,North Burnet,,Domain,Basil Moreau Hall,,02/22/2025 09:38 PM (CST),02/22/2025 10:08 PM (CST),9452672551,Completed,,,0.5,0,0,0,0,79.31,13.72
 544715,Philisani Dlamini (TRANSPORT),Scheduled,C,Philisani Dlamini,Barton Club Dr,Radius 3,,Regents School of Austin,,02/22/2025 09:21 PM (CST),02/22/2025 09:35 PM (CST),5126969401,Completed,,,0,0,0,0,0,72.2,6.41
 544727,Ogunsanya Olufunsho (Transport),Ride Now,A,Craig Ogunsanya,South Congress,,,3711 Westlake Dr,,02/22/2025 09:14 PM (CST),02/22/2025 09:37 PM (CST),7132946063,Completed,,,0,0,0,0,0,96.07,6.98
-544711,Ero Ohiro (AVS),Ride Now,A,Ero Ohiro,West Campus,,Downtown,Salsa Lim—n,Downtown,02/22/2025 09:05 PM (CST),02/22/2025 09:09 PM (CST),2147046874,Completed,,,0,0,0,0,0,57.97,1.14
+544711,Ero Ohiro (AVS),Ride Now,A,Ero Ohiro,West Campus,,Downtown,Salsa Limï¿½n,Downtown,02/22/2025 09:05 PM (CST),02/22/2025 09:09 PM (CST),2147046874,Completed,,,0,0,0,0,0,57.97,1.14
 544487,Moadh Tala,Scheduled,B,Moadh Tala,1400 Royal Crest Drive,Radius 2,,MEXTA Mexican Restaurant,Downtown,02/22/2025 08:47 PM (CST),02/22/2025 09:00 PM (CST),7138174649,Completed,,,0,0,0,1,0,47.95,2.47
 544475,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,2nd Street District,,Downtown,Jeni's Splendid Ice Creams,,02/22/2025 08:29 PM (CST),02/22/2025 08:35 PM (CST),7132946063,Completed,,,0,0,0,0,0,68.64,1.16
 544375,Ero Ohiro (AVS),Ride Now,A,Ero Ohiro,North University,,Downtown,Baker Street Pub & Grill,,02/22/2025 08:18 PM (CST),02/22/2025 08:39 PM (CST),2147845200,Completed,,,0,0,0,0,0,69.52,10.16
@@ -346,7 +345,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 538275,Ogunsanya Olufunsho (Transport),Scheduled,B,Craig Ogunsanya,Northwest Austin,Radius 5,,4402 Hudson Bend Road,,02/19/2025 02:55 PM (CST),02/19/2025 03:19 PM (CST),8324256719,Completed,,,0,0,0,1,0,145.68,14.25
 538272,Ogunsanya Olufunsho (Transport),Scheduled,D,Craig Ogunsanya,4402 Hudson Bend Road,Radius 5,,3001 Kalahari Blvd,,02/19/2025 12:26 PM (CST),02/19/2025 12:57 PM (CST),8324256719,Completed,,,2.96,0,0,1,0,169.92,24.48
 538132,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Skyloft,,Downtown,Emo's Austin,,02/18/2025 09:09 PM (CST),02/18/2025 09:21 PM (CST),2019832412,Completed,,,0,0,0,0,0,45.5,4.16
-538087,Ero Ohiro (AVS),Scheduled,A,Ero Ohiro,West Campus,Radius 1,Downtown,Salsa Lim—n,Downtown,02/18/2025 08:09 PM (CST),02/18/2025 08:17 PM (CST),8329637135,Completed,,,0,0,0,0,0,31.14,0.95
+538087,Ero Ohiro (AVS),Scheduled,A,Ero Ohiro,West Campus,Radius 1,Downtown,Salsa Limï¿½n,Downtown,02/18/2025 08:09 PM (CST),02/18/2025 08:17 PM (CST),8329637135,Completed,,,0,0,0,0,0,31.14,0.95
 538064,Ero Ohiro (AVS),Scheduled,A,Ero Ohiro,Hardin House,Radius 1,Downtown,TenTen,Downtown,02/18/2025 07:07 PM (CST),02/18/2025 07:18 PM (CST),9724896889,Completed,,,0,0,0,0,0,54.6,1.55
 538048,Ero Ohiro (AVS),Ride Now,B,Ero Ohiro,Downtown Austin,,Downtown,Powder Room,Downtown,02/18/2025 05:44 PM (CST),02/18/2025 05:58 PM (CST),9362425936,Completed,,,0,0,0,1,0,42.35,0.66
 537922,Adeniyi Oloyede (TRANSPORT),Scheduled,A,Ade Oloyede,St. Johns,Radius 3,,Moody Center,Downtown,02/17/2025 06:29 PM (CST),02/17/2025 06:42 PM (CST),5127696779,Completed,,,0,0,2,1,0,58.2,4.92
@@ -404,9 +403,9 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 535045,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Santa Rita Cantina,Downtown,02/15/2025 08:50 PM (CST),02/15/2025 09:00 PM (CST),8329778031,Completed,,,0,0,0,0,0,51.39,2.13
 535015,Ogunsanya Olufunsho (Transport),Ride Now,A,Craig Ogunsanya,South Congress,,,The Rustic Tap,Downtown,02/15/2025 08:45 PM (CST),02/15/2025 08:56 PM (CST),3148098596,Completed,,,0,0,0,0,0,37.87,1.44
 534907,Moadh Tala,Ride Now,B,Moadh Tala,Cactus Wren Way,,,Beez Kneez,Downtown,02/15/2025 08:27 PM (CST),02/15/2025 08:42 PM (CST),5128103952,Completed,,,0,0,0,0,0,93.66,4.7
-534910,Ero Ohiro (AVS),Ride Now,B,Ero Ohiro,The Little Longhorn Saloon,,,Eldorado CafŽ,Domain,02/15/2025 08:26 PM (CST),02/15/2025 08:39 PM (CST),5124665067,Completed,,,0,0,0,1,0,55.36,2.65
+534910,Ero Ohiro (AVS),Ride Now,B,Ero Ohiro,The Little Longhorn Saloon,,,Eldorado Cafï¿½,Domain,02/15/2025 08:26 PM (CST),02/15/2025 08:39 PM (CST),5124665067,Completed,,,0,0,0,1,0,55.36,2.65
 534867,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Judge's Hill,,Downtown,Polvo's Downtown Central,Downtown,02/15/2025 08:14 PM (CST),02/15/2025 08:23 PM (CST),7372972611,Completed,,,0,0,0,0,0,66.36,1.73
-534865,Ero Ohiro (AVS),Ride Now,A,Ero Ohiro,The Drag,,Downtown,Salsa Lim—n,Downtown,02/15/2025 08:08 PM (CST),02/15/2025 08:12 PM (CST),3465051746,Completed,,,0,0,0,0,0,31.56,1.11
+534865,Ero Ohiro (AVS),Ride Now,A,Ero Ohiro,The Drag,,Downtown,Salsa Limï¿½n,Downtown,02/15/2025 08:08 PM (CST),02/15/2025 08:12 PM (CST),3465051746,Completed,,,0,0,0,0,0,31.56,1.11
 534790,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,North University,,Downtown,Polvo's Downtown Central,Downtown,02/15/2025 08:05 PM (CST),02/15/2025 08:14 PM (CST),8322700759,Completed,,,0,0,0,0,0,51.31,2.09
 534726,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,Arts District,,Downtown,Ranch 616,Downtown,02/15/2025 07:46 PM (CST),02/15/2025 07:51 PM (CST),9146495724,Completed,,,0,0,0,0,0,41.36,0.91
 534715,Ero Ohiro (AVS),Ride Now,A,Ero Ohiro,West Campus,,Downtown,La Condesa,Downtown,02/15/2025 07:44 PM (CST),02/15/2025 07:52 PM (CST),9179996092,Completed,,,0,0,0,0,0,48.87,1.49
@@ -415,7 +414,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 534413,Ogunsanya Olufunsho (Transport),Scheduled,D,Craig Ogunsanya,3102 Paseo De Rancheros,Radius 5,,Round Rock Tavern,,02/15/2025 07:03 PM (CST),02/15/2025 07:22 PM (CST),5124705286,Completed,,,0.87,0,0,1,0,96.03,10.34
 534492,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,North University,,Downtown,The Callaway House Austin,Downtown,02/15/2025 06:49 PM (CST),02/15/2025 06:54 PM (CST),7132067467,Completed,,,0,0,0,1,0,42.49,0.68
 534491,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Polvo's Downtown Central,Downtown,02/15/2025 06:47 PM (CST),02/15/2025 06:56 PM (CST),4076170566,Completed,,,0,0,0,0,0,69.42,1.29
-534347,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Lim—n,Downtown,02/15/2025 05:56 PM (CST),02/15/2025 06:00 PM (CST),8179073426,Completed,,,0,0,0,0,0,66.95,0.86
+534347,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Limï¿½n,Downtown,02/15/2025 05:56 PM (CST),02/15/2025 06:00 PM (CST),8179073426,Completed,,,0,0,0,0,0,66.95,0.86
 534322,Ero Ohiro (AVS),Ride Now,B,Ero Ohiro,Govalle,,,Nickel City,Downtown,02/15/2025 05:53 PM (CST),02/15/2025 06:01 PM (CST),3055059980,Completed,,,0,0,0,0,0,69.84,2.4
 534306,Moadh Tala,Ride Now,A,Moadh Tala,West Campus,,Downtown,Maudie's Cafe,Downtown,02/15/2025 05:36 PM (CST),02/15/2025 05:50 PM (CST),2145433217,Completed,,,0,0,0,0,0,35.34,2.57
 534284,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Downtown Austin,,Downtown,2414 San Gabriel Street,Downtown,02/15/2025 05:34 PM (CST),02/15/2025 05:45 PM (CST),7134163505,Completed,,,0,0,0,0,0,43.84,1.6
@@ -470,7 +469,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 532421,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,Rosedale,Radius 2,Downtown,Scottish Rite Dormitory,Downtown,02/14/2025 09:22 PM (CST),02/14/2025 09:29 PM (CST),8037614922,Completed,,,0,0,0,0,0,54.8,1.59
 532336,Ero Ohiro (AVS),Ride Now,A,Ero Ohiro,The Standard at Austin,,Downtown,De Nada Cantina,,02/14/2025 08:41 PM (CST),02/14/2025 09:01 PM (CST),4696042440,Completed,,,0,0,0,0,0,40.44,4.85
 532293,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West End,,Downtown,107 East 31st Street,Downtown,02/14/2025 08:26 PM (CST),02/14/2025 08:34 PM (CST),2148026817,Completed,,,0,0,0,0,0,41.86,2.81
-532188,Moadh Tala,Ride Now,A,Moadh Tala,The Drag,,Downtown,Salsa Lim—n,Downtown,02/14/2025 07:58 PM (CST),02/14/2025 08:09 PM (CST),8178003309,Completed,,,0,0,0,0,0,31.2,0.99
+532188,Moadh Tala,Ride Now,A,Moadh Tala,The Drag,,Downtown,Salsa Limï¿½n,Downtown,02/14/2025 07:58 PM (CST),02/14/2025 08:09 PM (CST),8178003309,Completed,,,0,0,0,0,0,31.2,0.99
 532211,Ero Ohiro (AVS),Ride Now,A,Ero Ohiro,West Campus,,Downtown,Dirty Martin's Place,Downtown,02/14/2025 07:58 PM (CST),02/14/2025 08:02 PM (CST),6823012020,Completed,,,0,0,0,0,0,35.98,0.86
 532167,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Polvos,,02/14/2025 07:54 PM (CST),02/14/2025 08:09 PM (CST),8322728824,Completed,,,0,0,0,0,0,44.73,3.86
 532149,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,The Drag,,Downtown,Parkside,Downtown,02/14/2025 07:40 PM (CST),02/14/2025 07:53 PM (CST),9142914056,Completed,,,0,0,0,0,0,54.9,1.63
@@ -609,7 +608,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 525257,Ero Ohiro (AVS),Ride Now,A,Ero Ohiro,West Campus,,Downtown,Barton Springs Municipal Pool,Downtown,02/08/2025 02:15 PM (CST),02/08/2025 02:42 PM (CST),9143931445,Completed,,,0,0,0,0,0,69.19,3.56
 525226,Philisani Dlamini (TRANSPORT),Ride Now,B,Philisani Dlamini,Bryker Woods,,Downtown,Sixty Vines,Domain,02/08/2025 01:58 PM (CST),02/08/2025 02:20 PM (CST),5126389913,Completed,,,0,0,0,1,0,64.14,9.28
 525119,Ogunsanya Olufunsho (Transport),Scheduled,D,Craig Ogunsanya,9907 Trails End Road,Radius 5,,1607 W 6th St,Downtown,02/08/2025 12:53 PM (CST),02/08/2025 01:46 PM (CST),2108459716,Completed,,,2.04,0,0,1,0,220.7,27.4
-525158,Philisani Dlamini (TRANSPORT),Ride Now,B,Philisani Dlamini,Govalle,,,CafŽ No SŽ,,02/08/2025 12:36 PM (CST),02/08/2025 12:52 PM (CST),5636392824,Completed,,,0,0,0,0,0,57.96,4
+525158,Philisani Dlamini (TRANSPORT),Ride Now,B,Philisani Dlamini,Govalle,,,Cafï¿½ No Sï¿½,,02/08/2025 12:36 PM (CST),02/08/2025 12:52 PM (CST),5636392824,Completed,,,0,0,0,0,0,57.96,4
 525093,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Four Seasons Hotel Austin,Downtown,02/08/2025 11:45 AM (CST),02/08/2025 12:01 PM (CST),2817997307,Completed,,,0,0,3,0,0,48.48,3.01
 525082,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Lil' Easy Fine Cajun Food & Bar,,02/08/2025 11:41 AM (CST),02/08/2025 11:57 AM (CST),5127651902,Completed,,,0,0,0,0,0,41.45,5.33
 524995,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,5019 North Capital of Texas Highway,,02/08/2025 10:20 AM (CST),02/08/2025 10:42 AM (CST),9178284105,Completed,,,0,0,0,0,0,138.19,13.39
@@ -849,7 +848,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 511967,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Market District,,Downtown,13301 Center Lake Drive,,01/26/2025 02:09 AM (CST),01/26/2025 02:27 AM (CST),8309680638,Completed,,,0,0,0,0,0,70.28,12.4
 511904,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Sixth Street,,Downtown,Moontower,Downtown,01/26/2025 01:58 AM (CST),01/26/2025 02:07 AM (CST),2815283532,Completed,,,0,0,0,0,0,28,1.88
 511894,Ogunsanya Olufunsho (Transport),Ride Now,A,Craig Ogunsanya,Latchkey,,Downtown,2205 North Lamar Boulevard,Downtown,01/26/2025 01:52 AM (CST),01/26/2025 02:03 AM (CST),5039281210,Completed,,,0,0,0,1,0,48.44,2.67
-511828,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Sixth Street,,Downtown,St. AndrŽ Apartments,,01/26/2025 01:22 AM (CST),01/26/2025 01:32 AM (CST),2103175885,Completed,,,0,0,0,0,0,45.43,4.13
+511828,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Sixth Street,,Downtown,St. Andrï¿½ Apartments,,01/26/2025 01:22 AM (CST),01/26/2025 01:32 AM (CST),2103175885,Completed,,,0,0,0,0,0,45.43,4.13
 511802,Moadh Tala,Ride Now,A,Moadh Tala,Warehouse District,,Downtown,Beez Kneez,Downtown,01/26/2025 01:10 AM (CST),01/26/2025 01:14 AM (CST),4697663687,Completed,,,0,0,0,0,0,34.79,0.48
 511767,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Sixth Street,,Downtown,The Callaway House Austin,Downtown,01/26/2025 12:52 AM (CST),01/26/2025 01:02 AM (CST),9732249527,Completed,,,0,0,0,0,0,39.07,1.84
 511674,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,Sixth Street,,Downtown,1022 East 44th Street,,01/26/2025 12:22 AM (CST),01/26/2025 12:33 AM (CST),5416395004,Completed,,,0,0,0,1,0,79.53,3.42
@@ -954,7 +953,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 505825,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Rosedale,,Downtown,Zeta Tau Alpha,Downtown,01/23/2025 08:59 PM (CST),01/23/2025 09:06 PM (CST),8328171004,Completed,,,0,0,0,0,0,44.64,1.28
 505781,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,Gateway,Radius 3,Domain,Hardin House,Downtown,01/23/2025 08:59 PM (CST),01/23/2025 09:12 PM (CST),4096781122,Completed,,,0,0,0,0,0,88.44,8.33
 505673,Moadh Tala,Ride Now,A,Moadh Tala,West Campus,,Downtown,Play on West 6th,Downtown,01/23/2025 08:19 PM (CST),01/23/2025 08:29 PM (CST),8172337897,Completed,,,0,0,0,0,0,46.64,1.83
-505617,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Lim—n,Downtown,01/23/2025 07:49 PM (CST),01/23/2025 07:57 PM (CST),2102786904,Completed,,,0,0,0,0,0,65.52,1.01
+505617,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Limï¿½n,Downtown,01/23/2025 07:49 PM (CST),01/23/2025 07:57 PM (CST),2102786904,Completed,,,0,0,0,0,0,65.52,1.01
 505592,Adeniyi Oloyede (TRANSPORT),Scheduled,A,Ade Oloyede,910 Poplar Street,Radius 1,Downtown,Yamas Greek Restaurant,,01/23/2025 07:41 PM (CST),01/23/2025 07:56 PM (CST),5125747733,Completed,,,0,0,0,0,0,34.4,4.54
 505493,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,West Campus,Radius 1,Downtown,Baby Acapulco Restaurant,Domain,01/23/2025 06:38 PM (CST),01/23/2025 07:03 PM (CST),2145054644,Completed,,,0,0,0,0,0,115.22,8.91
 505341,Moadh Tala,Ride Now,A,Moadh Tala,Highland,,,The Callaway House Austin,Downtown,01/22/2025 10:59 PM (CST),01/22/2025 11:14 PM (CST),5164197080,Completed,,,0,0,0,0,0,87.48,5.82
@@ -1089,7 +1088,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 497635,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Taco Flats-Clarksville,Downtown,01/16/2025 08:54 PM (CST),01/16/2025 09:01 PM (CST),5127080772,Completed,,,0,0,0,0,0,66.24,1.14
 497605,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,El Patio Restaurant,Downtown,01/16/2025 08:47 PM (CST),01/16/2025 08:54 PM (CST),4694428634,Completed,,,0,0,0,0,0,70.56,1.93
 497571,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Zilker,,,Santa Rita Cantina,Downtown,01/16/2025 08:32 PM (CST),01/16/2025 08:45 PM (CST),3464015807,Completed,,,0,0,0,0,0,94.92,4.24
-497483,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,West Campus,Radius 1,Downtown,Salsa Lim—n,Downtown,01/16/2025 08:08 PM (CST),01/16/2025 08:14 PM (CST),8329637135,Completed,,,0,0,0,0,0,61.05,1.21
+497483,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,West Campus,Radius 1,Downtown,Salsa Limï¿½n,Downtown,01/16/2025 08:08 PM (CST),01/16/2025 08:14 PM (CST),8329637135,Completed,,,0,0,0,0,0,61.05,1.21
 497486,Moadh Tala,Scheduled,A,Moadh Tala,West Campus,Radius 1,Downtown,The Grove Wine Bar & Kitchen - Downtown,Downtown,01/16/2025 08:06 PM (CST),01/16/2025 08:16 PM (CST),7135028668,Completed,,,0,0,1,0,0,78.26,1.29
 497482,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,Shoal Crest,,Downtown,Sushi Japon & Hibachi Grill,,01/16/2025 07:57 PM (CST),01/16/2025 08:10 PM (CST),5129698460,Completed,,,0,0,1,0,0,63.45,5.02
 497441,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Santa Rita Cantina,Downtown,01/16/2025 07:35 PM (CST),01/16/2025 07:42 PM (CST),2146493033,Completed,,,0,0,0,0,0,60.2,2.29
@@ -1108,7 +1107,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 496397,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Rosedale,,Downtown,The Cauldron - Cocktail Lounge & Sports Bar,Downtown,01/14/2025 09:30 PM (CST),01/14/2025 09:39 PM (CST),5128408426,Completed,,,0,0,0,0,0,79.94,2.12
 496309,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Heritage,,Downtown,The Cauldron - Cocktail Lounge & Sports Bar,Downtown,01/14/2025 09:00 PM (CST),01/14/2025 09:07 PM (CST),2147635733,Completed,,,0,0,0,0,0,51.6,0.91
 496283,Van 10 Transport ATX,Ride Now,A,Mo Ta,St. Johns,,,The Villas at San Gabriel,Downtown,01/14/2025 08:46 PM (CST),01/14/2025 09:04 PM (CST),2148302295,Completed,,,0,0,0,0,0,89.31,5.23
-496286,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Lim—n,Downtown,01/14/2025 08:37 PM (CST),01/14/2025 08:42 PM (CST),8173719565,Completed,,,0,0,0,0,0,57.09,0.97
+496286,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Limï¿½n,Downtown,01/14/2025 08:37 PM (CST),01/14/2025 08:42 PM (CST),8173719565,Completed,,,0,0,0,0,0,57.09,0.97
 496242,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,West Campus,Radius 1,Downtown,Polvo's Downtown Central,Downtown,01/14/2025 07:56 PM (CST),01/14/2025 08:07 PM (CST),8322457399,Completed,,,0,0,0,0,0,37.87,1.44
 496210,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,West Campus,Radius 1,Downtown,Spicy Szechuan,Downtown,01/14/2025 07:21 PM (CST),01/14/2025 07:30 PM (CST),2816841544,Completed,,,0,0,0,0,0,83.72,2.82
 496196,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,The Villas at San Gabriel,Radius 1,Downtown,Sushi Japon & Hibachi Grill,,01/14/2025 06:18 PM (CST),01/14/2025 06:35 PM (CST),9032384814,Completed,,,0,0,0,0,0,83.04,5.42
@@ -1159,7 +1158,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 494181,Philisani Dlamini (TRANSPORT),Scheduled,D,Philisani Dlamini,Stoneridge Rd,Radius 3,,Butler Pitch & Putt,Downtown,01/11/2025 10:52 AM (CST),01/11/2025 11:08 AM (CST),5123501458,Completed,,,0.5,0,0,1,0,114.1,4.6
 494165,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Sixth Street,,Downtown,575 Whippoorwill Trail,,01/11/2025 02:40 AM (CST),01/11/2025 02:59 AM (CST),5124684501,Completed,,,0,0,0,0,0,95.04,13.27
 494142,Philisani Dlamini (TRANSPORT),Ride Now,BB,Philisani Dlamini,Sixth Street,,Downtown,1915 East Martin Luther King Junior Boulevard,Downtown,01/11/2025 02:17 AM (CST),01/11/2025 02:25 AM (CST),4695071708,Completed,,,0,0,0,0,0,77.16,2.18
-494120,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Oilcan HarryÕs,,Downtown,4301 Airport Boulevard,,01/11/2025 01:55 AM (CST),01/11/2025 02:05 AM (CST),9165773522,Completed,,,0,0,0,0,0,65.81,4.4
+494120,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Oilcan Harryï¿½s,,Downtown,4301 Airport Boulevard,,01/11/2025 01:55 AM (CST),01/11/2025 02:05 AM (CST),9165773522,Completed,,,0,0,0,0,0,65.81,4.4
 494066,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Sixth Street,,Downtown,Union on 24th,Downtown,01/11/2025 12:35 AM (CST),01/11/2025 12:46 AM (CST),4326384087,Completed,,,0,0,0,0,0,41.37,2.65
 493989,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Barbarella Austin,Downtown,01/10/2025 11:36 PM (CST),01/10/2025 11:43 PM (CST),7379991317,Completed,,,0,0,0,0,0,57.1,2.13
 493966,Ogunsanya Olufunsho (Transport),Ride Now,B,Craig Ogunsanya,Riverside,,,Latchkey,Downtown,01/10/2025 11:29 PM (CST),01/10/2025 11:37 PM (CST),9047100076,Completed,,,0,0,0,0,0,46.8,2.47
@@ -1278,7 +1277,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 488762,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,Heritage,,Downtown,June's All Day,,12/31/2024 07:52 PM (CST),12/31/2024 08:09 PM (CST),4795317333,Completed,,,0,0,0,1,0,100.6,5.02
 488578,Chibuzo Ajoku (Transport),Scheduled,N/A,Uzo A,West Oak Hill,Radius 4,,Il Brutto,,12/31/2024 07:32 PM (CST),12/31/2024 07:51 PM (CST),3468047383,Completed,,,0.51,0,0,0,1,129.5,12.65
 488591,Philisani Dlamini (TRANSPORT),Scheduled,C,Philisani Dlamini,South Austin,Radius 3,,Pearl and Fin Oyster Bar,Downtown,12/31/2024 07:24 PM (CST),12/31/2024 07:42 PM (CST),5125673120,Completed,,,0,0,0,1,0,95.92,10.23
-488633,Adeniyi Oloyede (TRANSPORT),Scheduled,B,Ade Oloyede,Zilker,Radius 1,Downtown,T—malo Grill,,12/31/2024 07:22 PM (CST),12/31/2024 07:34 PM (CST),5126801496,Completed,,,0,0,0,0,0,67.84,3.41
+488633,Adeniyi Oloyede (TRANSPORT),Scheduled,B,Ade Oloyede,Zilker,Radius 1,Downtown,Tï¿½malo Grill,,12/31/2024 07:22 PM (CST),12/31/2024 07:34 PM (CST),5126801496,Completed,,,0,0,0,0,0,67.84,3.41
 488609,Bankole O (T-ATX),Scheduled,A,Bankole Okunbolade,Bryker Woods,Radius 2,Downtown,1100 Little Texas Lane,,12/31/2024 07:16 PM (CST),12/31/2024 07:35 PM (CST),9183972667,Completed,,,0,0,0,0,0,169.4,12.08
 488566,Adeniyi Oloyede (TRANSPORT),Scheduled,A,Ade Oloyede,Pemberton Heights,Radius 1,Downtown,Ranch 616,Downtown,12/31/2024 06:58 PM (CST),12/31/2024 07:04 PM (CST),5125207262,Completed,,,0,0,0,0,0,95.52,2.15
 488493,Adeniyi Oloyede (TRANSPORT),Scheduled,A,Ade Oloyede,West Campus,Radius 1,Downtown,Santa Rita Cantina,Downtown,12/31/2024 06:22 PM (CST),12/31/2024 06:27 PM (CST),2147830644,Completed,,,0,0,0,0,0,106.34,2.68
@@ -1297,7 +1296,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 488034,Philisani Dlamini (TRANSPORT),Scheduled,C,Philisani Dlamini,Redbud Trail,Radius 3,,La Piscina Ceviches & Fajitas,Downtown,12/30/2024 06:25 PM (CST),12/30/2024 06:40 PM (CST),5123170776,Completed,,,0,0,0,0,0,69.41,5.48
 488026,Adeniyi Oloyede (TRANSPORT),Scheduled,C,Ade Oloyede,Toreador Dr,Radius 3,,CAP CITY COMEDY,,12/30/2024 06:02 PM (CST),12/30/2024 06:23 PM (CST),9059607779,Completed,,,0,0,0,1,0,97.29,12.02
 488025,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Travis Northeast,,,2101 West 10th Street,Downtown,12/30/2024 05:34 PM (CST),12/30/2024 05:56 PM (CST),5128204836,Completed,,,0,0,0,0,0,148.06,18.12
-488006,Philisani Dlamini (TRANSPORT),Ride Now,D,Philisani Dlamini,Tarrytown,,Downtown,AustinÕs Park,,12/30/2024 01:35 PM (CST),12/30/2024 02:04 PM (CST),5128204836,Completed,,,0,0,0,0,0,188.37,19.83
+488006,Philisani Dlamini (TRANSPORT),Ride Now,D,Philisani Dlamini,Tarrytown,,Downtown,Austinï¿½s Park,,12/30/2024 01:35 PM (CST),12/30/2024 02:04 PM (CST),5128204836,Completed,,,0,0,0,0,0,188.37,19.83
 487924,Chibuzo Ajoku (Transport),Ride Now,C,Uzo A,Zilker,,,2613 Harris Blvd,Downtown,12/29/2024 09:37 PM (CST),12/29/2024 09:51 PM (CST),2104291519,Completed,,,0,0,0,0,0,59.36,7.07
 487870,Chibuzo Ajoku (Transport),Scheduled,C,Uzo A,1805 Redd Street,Radius 3,,Alamo Drafthouse Cinema South Lamar,,12/29/2024 07:09 PM (CST),12/29/2024 07:23 PM (CST),8326478544,Completed,,,0,0,0,0,0,66.22,2.9
 487846,Chibuzo Ajoku (Transport),Ride Now,A,Uzo A,Warehouse District,,Downtown,Pool Burger,Downtown,12/29/2024 05:58 PM (CST),12/29/2024 06:06 PM (CST),5126333823,Completed,,,0,0,0,1,0,84.5,1.65
@@ -1529,7 +1528,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 479762,Adeniyi Oloyede (TRANSPORT),Scheduled,B,Ade Oloyede,Rosedale,Radius 2,,2405 Vance Lane,Downtown,12/13/2024 06:43 PM (CST),12/13/2024 06:59 PM (CST),5124232323,Completed,,,0,0,0,1,0,57.55,6.37
 479739,Chibuzo Ajoku (Transport),Scheduled,B,Uzo A,Riverside,Radius 2,,Central Machine Works,,12/13/2024 06:20 PM (CST),12/13/2024 06:38 PM (CST),9798242115,Completed,,,0,0,0,1,0,50.05,3.23
 479693,Philisani Dlamini (TRANSPORT),Scheduled,D,Philisani Dlamini,Brentwood Dr,Radius 5,,Perry's Steakhouse & Grille - Downtown Austin,Downtown,12/13/2024 05:41 PM (CST),12/13/2024 06:37 PM (CST),3125206302,Completed,,,4.34,0,0,1,0,192.8,18.91
-479668,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,Lamplight Village,,,PerryÕs Steakhouse & Grille,Domain,12/13/2024 03:36 PM (CST),12/13/2024 03:50 PM (CST),2549136015,Completed,,,0,0,0,1,0,86.52,3.39
+479668,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,Lamplight Village,,,Perryï¿½s Steakhouse & Grille,Domain,12/13/2024 03:36 PM (CST),12/13/2024 03:50 PM (CST),2549136015,Completed,,,0,0,0,1,0,86.52,3.39
 479664,Philisani Dlamini (TRANSPORT),Ride Now,B,Philisani Dlamini,The Escape Game Austin,,Downtown,1401 East 6th Street,,12/13/2024 03:06 PM (CST),12/13/2024 03:12 PM (CST),8133105247,Completed,,,0,0,0,1,0,67.66,0.87
 479651,Philisani Dlamini (TRANSPORT),Scheduled,C,Philisani Dlamini,Downtown Austin,Radius 1,Downtown,Barr Mansion,,12/13/2024 01:07 PM (CST),12/13/2024 01:33 PM (CST),7073387642,Completed,,,0,0,0,1,0,87.3,10.17
 479643,Philisani Dlamini (TRANSPORT),Ride Now,C,Philisani Dlamini,Riverside,,,Butler Pitch & Putt,Downtown,12/13/2024 10:56 AM (CST),12/13/2024 11:04 AM (CST),4803389672,Completed,,,0,0,0,1,0,80.76,2.18
@@ -1540,7 +1539,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 479131,Ogunsanya Olufunsho (Transport),Ride Now,A,Craig Ogunsanya,East End,,Downtown,1103 Upland Drive,,12/12/2024 09:52 PM (CST),12/12/2024 10:01 PM (CST),4805166505,Completed,,,0,0,0,1,0,74.69,2.34
 479137,Chibuzo Ajoku (Transport),Ride Now,A,Uzo A,Downtown Austin,,Downtown,Blind Pig Pub,Downtown,12/12/2024 09:49 PM (CST),12/12/2024 09:57 PM (CST),2102659777,Completed,,,0,0,0,1,0,54.99,0.78
 479110,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,South Lamar,,,The Standard at Austin,Downtown,12/12/2024 09:39 PM (CST),12/12/2024 09:50 PM (CST),6308357516,Completed,,,0,0,0,0,0,50.4,3.59
-479077,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Lim—n,Downtown,12/12/2024 09:17 PM (CST),12/12/2024 09:21 PM (CST),8329985966,Completed,,,0,0,0,0,0,46.71,0.96
+479077,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Limï¿½n,Downtown,12/12/2024 09:17 PM (CST),12/12/2024 09:21 PM (CST),8329985966,Completed,,,0,0,0,0,0,46.71,0.96
 479000,Chibuzo Ajoku (Transport),Scheduled,A,Uzo A,Esther's Follies,Radius 1,Downtown,3901 Woodbury Drive,,12/12/2024 09:03 PM (CST),12/12/2024 09:16 PM (CST),5126807485,Completed,,,0,0,0,1,0,69.39,4.76
 478965,Ogunsanya Olufunsho (Transport),Ride Now,A,Craig Ogunsanya,Space Cowboy,,,Key Bar,Downtown,12/12/2024 08:40 PM (CST),12/12/2024 08:51 PM (CST),3304796395,Completed,,,0,0,0,1,0,65.7,1.81
 478960,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Shoal Creek Saloon,Downtown,12/12/2024 08:32 PM (CST),12/12/2024 08:38 PM (CST),7134103434,Completed,,,0,0,0,0,0,53.6,1.34
@@ -1609,7 +1608,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 477607,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,1904 David Street,Downtown,12/09/2024 07:37 PM (CST),12/09/2024 07:39 PM (CST),7133041663,Completed,,,0,0,0,0,0,39.92,0.5
 477597,Adeniyi Oloyede (TRANSPORT),Scheduled,A,Ade Oloyede,800 West 26th Street,Radius 1,Downtown,3706 Jefferson St,Downtown,12/09/2024 07:25 PM (CST),12/09/2024 07:33 PM (CST),2813094214,Completed,,,0,0,0,0,0,77.42,1.73
 477595,Soufiane I (CREW),Ride Now,A,Soufiane Nihou,West Campus,,Downtown,Matt's El Rancho,,12/09/2024 07:13 PM (CST),12/09/2024 07:21 PM (CST),2107741005,Completed,,,0,0,4,0,0,77.88,4.11
-477591,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Lark Austin,,Downtown,El Mes—n Tequileria,,12/09/2024 07:01 PM (CST),12/09/2024 07:13 PM (CST),6503988081,Completed,,,0,0,0,0,0,74.64,3.41
+477591,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Lark Austin,,Downtown,El Mesï¿½n Tequileria,,12/09/2024 07:01 PM (CST),12/09/2024 07:13 PM (CST),6503988081,Completed,,,0,0,0,0,0,74.64,3.41
 477588,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Santa Rita Cantina,Downtown,12/09/2024 06:55 PM (CST),12/09/2024 06:59 PM (CST),5126632840,Completed,,,0,0,0,0,0,78.54,1.89
 477570,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Yugo Austin Waterloo,,Downtown,More Home Slice Pizza,,12/09/2024 06:28 PM (CST),12/09/2024 06:42 PM (CST),9147141658,Completed,,,0,0,0,0,0,60.9,3.08
 477559,Soufiane I (CREW),Ride Now,A,Soufiane Nihou,West Campus,,Downtown,6550 Comanche Trail,,12/09/2024 05:53 PM (CST),12/09/2024 06:27 PM (CST),4699011700,Completed,,,0,0,0,0,0,94.89,15.44
@@ -1653,7 +1652,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 475847,Chibuzo Ajoku (Transport),Ride Now,A,Uzo A,South Congress,,,Beez Kneez,Downtown,12/07/2024 09:31 PM (CST),12/07/2024 09:46 PM (CST),2039934603,Completed,,,0,0,0,1,0,81.72,2.37
 475633,Bankole O (T-ATX),Scheduled,D,Bankole Okunbolade,Star Hill Ranch,Radius 5,,1500 South Lamar Boulevard,,12/07/2024 09:22 PM (CST),12/07/2024 09:49 PM (CST),7752912050,Completed,,,3.83,0,0,0,0,147.6,16.63
 475747,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,Downtown Austin,,Downtown,Shakespeare's,Downtown,12/07/2024 09:15 PM (CST),12/07/2024 09:23 PM (CST),2148080641,Completed,,,0,0,0,0,0,74.2,1.21
-475666,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,West Campus,Radius 1,Downtown,Salsa Lim—n,Downtown,12/07/2024 09:13 PM (CST),12/07/2024 09:19 PM (CST),2818029106,Completed,,,0,0,0,0,0,36.75,1.09
+475666,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,West Campus,Radius 1,Downtown,Salsa Limï¿½n,Downtown,12/07/2024 09:13 PM (CST),12/07/2024 09:19 PM (CST),2818029106,Completed,,,0,0,0,0,0,36.75,1.09
 475696,Ogunsanya Olufunsho (Transport),Ride Now,A,Craig Ogunsanya,West End,,Downtown,1813 West 37th Street,Downtown,12/07/2024 09:05 PM (CST),12/07/2024 09:15 PM (CST),3375322706,Completed,,,0,0,0,0,0,72.6,2.99
 475671,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West End,,Downtown,The Dead Rabbit,Downtown,12/07/2024 08:51 PM (CST),12/07/2024 08:59 PM (CST),7136471484,Completed,,,0,0,0,0,0,45.12,1.95
 475522,Soufiane I (CREW),Ride Now,D,Soufiane Nihou,Northwest Austin,,Domain,4207 Farhills Drive,,12/07/2024 08:41 PM (CST),12/07/2024 08:46 PM (CST),5126962363,Completed,,,0.5,0,0,0,0,54.01,6.38
@@ -1781,18 +1780,18 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 470904,Soufiane I (CREW),Ride Now,AA,Soufiane Nihou,West Campus,,Downtown,Recess Arcade Bar,Downtown,12/05/2024 08:20 PM (CST),12/05/2024 08:23 PM (CST),5126968686,Completed,,,0,0,0,0,0,21.93,1.59
 470867,Adeniyi Oloyede (TRANSPORT),Scheduled,BB,Ade Oloyede,North University,Radius 1,Downtown,Donn's Depot,Downtown,12/05/2024 08:12 PM (CST),12/05/2024 08:22 PM (CST),8325923239,Completed,,,0,0,0,0,0,69.52,3.64
 470825,Philisani Dlamini (TRANSPORT),Ride Now,BB,Philisani Dlamini,812 West 23rd Street,,Downtown,Wiggle Room,Downtown,12/05/2024 08:04 PM (CST),12/05/2024 08:11 PM (CST),8326527951,Completed,,,0,0,0,0,0,69.94,1.39
-470705,Bankole O (T-ATX),Ride Now,D,Bankole Okunbolade,Salsa Lim—n,,Downtown,Cheers Shot Bar,Downtown,12/05/2024 08:01 PM (CST),12/05/2024 08:08 PM (CST),7138159957,Completed,,,0,0,0,0,0,100.38,3.42
+470705,Bankole O (T-ATX),Ride Now,D,Bankole Okunbolade,Salsa Limï¿½n,,Downtown,Cheers Shot Bar,Downtown,12/05/2024 08:01 PM (CST),12/05/2024 08:08 PM (CST),7138159957,Completed,,,0,0,0,0,0,100.38,3.42
 470772,Adeniyi Oloyede (TRANSPORT),Ride Now,C,Ade Oloyede,West Campus,,Downtown,Sixth Street,Downtown,12/05/2024 07:49 PM (CST),12/05/2024 07:58 PM (CST),5125022280,Completed,,,0,0,0,0,0,72.5,3.59
 470761,Ogunsanya Olufunsho (Transport),Ride Now,AA,Craig Ogunsanya,West Campus,,Downtown,Polvos,,12/05/2024 07:47 PM (CST),12/05/2024 08:00 PM (CST),9729555719,Completed,,,0,0,0,0,0,87.64,3.49
 470701,Philisani Dlamini (TRANSPORT),Ride Now,BB,Philisani Dlamini,West Campus,,Downtown,Unbarlievable West 6th,Downtown,12/05/2024 07:44 PM (CST),12/05/2024 07:52 PM (CST),9038068464,Completed,,,0,0,0,0,0,62.81,2.13
 470722,Soufiane I (CREW),Ride Now,BB,Soufiane Nihou,West Campus,,Downtown,Nightcap,Downtown,12/05/2024 07:29 PM (CST),12/05/2024 07:58 PM (CST),4693409320,Completed,,,0,0,5,0,1,119.2,2.73
 470604,Ogunsanya Olufunsho (Transport),Scheduled,B,Craig Ogunsanya,West Campus,Radius 1,Downtown,Pour Choices,Downtown,12/05/2024 07:22 PM (CST),12/05/2024 07:32 PM (CST),9123234404,Completed,,,0,0,0,0,0,81.62,2.43
 470608,Philisani Dlamini (TRANSPORT),Scheduled,B,Philisani Dlamini,West Campus,Radius 1,Downtown,Cheers Shot Bar,Downtown,12/05/2024 07:17 PM (CST),12/05/2024 07:27 PM (CST),3109181932,Completed,,,0,0,0,0,0,79.94,2.13
-470635,Soufiane I (CREW),Ride Now,B,Soufiane Nihou,The Drag,,Downtown,Salsa Lim—n,Downtown,12/05/2024 07:16 PM (CST),12/05/2024 07:20 PM (CST),6504749272,Completed,,,0,0,5,0,0,91.26,0.68
+470635,Soufiane I (CREW),Ride Now,B,Soufiane Nihou,The Drag,,Downtown,Salsa Limï¿½n,Downtown,12/05/2024 07:16 PM (CST),12/05/2024 07:20 PM (CST),6504749272,Completed,,,0,0,5,0,0,91.26,0.68
 470641,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,The Drag,,Downtown,Lil' Easy Fine Cajun Food & Bar,,12/05/2024 07:14 PM (CST),12/05/2024 07:28 PM (CST),2108540048,Completed,,,0,0,0,0,0,87.23,4.76
 470582,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Mi Madre's Restaurant,Downtown,12/05/2024 06:47 PM (CST),12/05/2024 07:00 PM (CST),4089135834,Completed,,,0,0,0,0,0,61.27,1.81
 470578,Soufiane I (CREW),Ride Now,A,Soufiane Nihou,The Drag,,Downtown,Pour Choices,Downtown,12/05/2024 06:47 PM (CST),12/05/2024 06:58 PM (CST),4694862092,Completed,,,0,0,3,0,0,77.92,2.44
-470491,Soufiane I (CREW),Ride Now,A,Soufiane Nihou,West Campus,,Downtown,Salsa Lim—n,Downtown,12/05/2024 06:01 PM (CST),12/05/2024 06:09 PM (CST),7135851237,Completed,,,0,0,6,0,0,94.32,1.07
+470491,Soufiane I (CREW),Ride Now,A,Soufiane Nihou,West Campus,,Downtown,Salsa Limï¿½n,Downtown,12/05/2024 06:01 PM (CST),12/05/2024 06:09 PM (CST),7135851237,Completed,,,0,0,6,0,0,94.32,1.07
 470486,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,North University,,Downtown,Polvo's Downtown Central,Downtown,12/05/2024 06:01 PM (CST),12/05/2024 06:12 PM (CST),7137039294,Completed,,,0,0,0,0,0,80.22,2.18
 470446,Philisani Dlamini (TRANSPORT),Scheduled,C,Philisani Dlamini,Aloft Austin Southwest,Radius 3,,Steiner Ranch Steakhouse,,12/05/2024 05:06 PM (CST),12/05/2024 06:09 PM (CST),5127435876,Completed,,,0,0,0,1,0,133.47,18.74
 470444,Ogunsanya Olufunsho (Transport),Scheduled,D,Craig Ogunsanya,Orangetheory Fitness,Radius 4,,Pedal Pub Austin,Downtown,12/05/2024 04:36 PM (CST),12/05/2024 05:11 PM (CST),3193604805,Completed,,,0.61,0,0,1,0,151.08,13.96
@@ -1919,7 +1918,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 462800,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,South Lamar,,,The Villas at San Gabriel,Downtown,11/22/2024 09:59 PM (CST),11/22/2024 10:07 PM (CST),8179335932,Completed,,,0,0,0,0,0,91.42,4.26
 462819,Chibuzo Ajoku (Transport),Ride Now,B,Uzo A,Govalle,,,The Cat's Pajamas,Downtown,11/22/2024 09:52 PM (CST),11/22/2024 10:08 PM (CST),8322217007,Completed,,,0,0,0,0,0,56.52,3.54
 462816,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Rosedale,,Downtown,2414 Pearl Street,Downtown,11/22/2024 09:50 PM (CST),11/22/2024 09:59 PM (CST),2034514845,Completed,,,0,0,0,0,0,74.75,2.22
-462702,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Salsa Lim—n,Downtown,11/22/2024 09:06 PM (CST),11/22/2024 09:11 PM (CST),2142056577,Completed,,,0,0,0,0,0,49.14,1.55
+462702,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Salsa Limï¿½n,Downtown,11/22/2024 09:06 PM (CST),11/22/2024 09:11 PM (CST),2142056577,Completed,,,0,0,0,0,0,49.14,1.55
 462547,Adeniyi Oloyede (TRANSPORT),Scheduled,A,Ade Oloyede,West Campus,Radius 1,Downtown,Casa Chapala,Domain,11/22/2024 08:19 PM (CST),11/22/2024 08:31 PM (CST),4696449897,Completed,,,0,0,0,0,0,99.58,7.86
 462512,Soufiane I (CREW),Ride Now,C,Soufiane Nihou,East Oak Hill,,,Parish,Downtown,11/22/2024 08:10 PM (CST),11/22/2024 08:28 PM (CST),7347302605,Completed,,,0,0,0,0,0,77.84,11.9
 462490,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Baby Acapulco,,11/22/2024 08:01 PM (CST),11/22/2024 08:14 PM (CST),2039457535,Completed,,,0,0,0,0,0,70.29,3.86
@@ -2128,7 +2127,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 452692,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Windsor Park,,,Wiggle Room,Downtown,11/12/2024 09:37 PM (CST),11/12/2024 09:51 PM (CST),7134178941,Completed,,,0,0,0,0,0,99.12,5.94
 452662,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,9301 Travertine Cove,,11/12/2024 09:10 PM (CST),11/12/2024 09:33 PM (CST),5122341877,Completed,,,0,0,0,0,0,131.04,11.27
 452639,Chibuzo Ajoku (Transport),Ride Now,A,Uzo A,Travis Northeast,,,5800 East Parmer Lane,,11/12/2024 08:28 PM (CST),11/12/2024 08:48 PM (CST),9794926911,Completed,,,0,0,0,1,0,110.12,7.2
-452636,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,2913 Rio Grande Street,,Downtown,J CarverÕs Oyster Bar & Chophouse,Downtown,11/12/2024 08:18 PM (CST),11/12/2024 08:26 PM (CST),9728276528,Completed,,,0,0,0,0,0,48.08,2.88
+452636,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,2913 Rio Grande Street,,Downtown,J Carverï¿½s Oyster Bar & Chophouse,Downtown,11/12/2024 08:18 PM (CST),11/12/2024 08:26 PM (CST),9728276528,Completed,,,0,0,0,0,0,48.08,2.88
 452558,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Uchiko Austin,Downtown,11/12/2024 06:41 PM (CST),11/12/2024 06:47 PM (CST),6506901216,Completed,,,0,0,0,0,0,61.16,1.77
 452552,Philisani Dlamini (TRANSPORT),Scheduled,B,Philisani Dlamini,Downtown Austin,Radius 1,Downtown,Maie Day,,11/12/2024 06:25 PM (CST),11/12/2024 06:36 PM (CST),7046168762,Completed,,,0,0,0,1,0,38.89,1.61
 452538,Chibuzo Ajoku (Transport),Scheduled,C,Uzo A,Travis Northeast,Radius 4,,1421 Wells Branch Pkwy #200,,11/12/2024 05:23 PM (CST),11/12/2024 05:52 PM (CST),5128176753,Completed,,,0,0,0,1,0,110.24,7.3
@@ -2184,7 +2183,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 449877,Philisani Dlamini (TRANSPORT),Ride Now,B,Philisani Dlamini,Aquarena Springs Dr,,,Wurstfest,,11/09/2024 08:16 PM (CST),11/09/2024 08:53 PM (CST),8302160961,Completed,,,0,0,0,0,0,141.61,21.22
 449835,Ogunsanya Olufunsho (Transport),Ride Now,B,Craig Ogunsanya,Cherrywood,,,Quince Lakehouse,,11/09/2024 08:14 PM (CST),11/09/2024 08:30 PM (CST),5042068166,Completed,,,0,0,0,0,0,55.28,5.37
 449826,Adeniyi Oloyede (TRANSPORT),Ride Now,AA,Ade Oloyede,Riverside,,,Coconut Club,Downtown,11/09/2024 08:13 PM (CST),11/09/2024 08:25 PM (CST),7176026155,Completed,,,0,0,0,0,0,79.52,2.04
-449834,Van 10 Transport ATX,Ride Now,B,Souf Ni,West Campus,,Downtown,FloÕs Wine Bar and Bottle Shop,,11/09/2024 08:06 PM (CST),11/09/2024 08:16 PM (CST),8327254280,Completed,,,0,0,2,0,0,69.44,2.72
+449834,Van 10 Transport ATX,Ride Now,B,Souf Ni,West Campus,,Downtown,Floï¿½s Wine Bar and Bottle Shop,,11/09/2024 08:06 PM (CST),11/09/2024 08:16 PM (CST),8327254280,Completed,,,0,0,2,0,0,69.44,2.72
 449746,Bankole O (T-ATX),Ride Now,BB,Bankole Okunbolade,CR-236,,,3217 Park Hills Drive,,11/09/2024 07:50 PM (CST),11/09/2024 08:18 PM (CST),5124389358,Completed,,,0,0,0,1,0,148.41,20.14
 449752,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,Barton Springs,,Downtown,The Westin Austin Downtown,Downtown,11/09/2024 07:44 PM (CST),11/09/2024 07:55 PM (CST),2316420014,Completed,,,0,0,0,1,0,73.04,1.96
 449684,Ogunsanya Olufunsho (Transport),Ride Now,AA,Craig Ogunsanya,Windsor Park,,,4715 East Cesar Chavez Street,,11/09/2024 07:41 PM (CST),11/09/2024 07:55 PM (CST),2033099224,Completed,,,0,0,0,0,0,106.26,6.62
@@ -2209,7 +2208,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 448607,Chibuzo Ajoku (Transport),Ride Now,B,Uzo A,University Campus,,Downtown,Mayfair Austin,Downtown,11/09/2024 02:45 PM (CST),11/09/2024 03:11 PM (CST),3522700616,Completed,,,0,0,0,0,0,41.16,2.56
 448575,Philisani Dlamini (TRANSPORT),Ride Now,AA,Philisani Dlamini,Little Woodrow's West 6th,,Downtown,6205 Betty Cook Dr,,11/09/2024 02:29 PM (CST),11/09/2024 02:55 PM (CST),5087332276,Completed,,,0,0,0,0,0,99.71,7.93
 448548,Van 10 Transport ATX,Scheduled,C,Souf Ni,1134 Lawson Lane,Radius 1,,New Braunfels,,11/09/2024 02:13 PM (CST),11/09/2024 03:31 PM (CST),9176408637,Completed,,,0,0,0,1,0,263.71,48.96
-448529,Chibuzo Ajoku (Transport),Ride Now,A,Uzo A,University Campus,,Downtown,Salsa Lim—n,Downtown,11/09/2024 02:02 PM (CST),11/09/2024 02:08 PM (CST),7148756128,Completed,,,0,0,0,0,0,43.04,1.39
+448529,Chibuzo Ajoku (Transport),Ride Now,A,Uzo A,University Campus,,Downtown,Salsa Limï¿½n,Downtown,11/09/2024 02:02 PM (CST),11/09/2024 02:08 PM (CST),7148756128,Completed,,,0,0,0,0,0,43.04,1.39
 448544,Philisani Dlamini (TRANSPORT),Ride Now,B,Philisani Dlamini,University Campus,,Downtown,Terry Black's Barbecue,Downtown,11/09/2024 01:54 PM (CST),11/09/2024 02:12 PM (CST),7328909961,Completed,,,0,0,0,0,0,74.36,4.92
 448518,Bankole O (T-ATX),Scheduled,A,Bankole Okunbolade,The Waller,Radius 1,Downtown,120 Landa St,,11/09/2024 01:53 PM (CST),11/09/2024 03:04 PM (CST),4084973066,Completed,,,0,0,0,1,0,270.64,50.43
 448482,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,West Campus,,Downtown,Ranch 616,Downtown,11/09/2024 01:20 PM (CST),11/09/2024 01:27 PM (CST),2819171336,Completed,,,0,0,0,0,0,56.4,1.97
@@ -2275,7 +2274,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 446027,Ogunsanya Olufunsho (Transport),Ride Now,D,Craig Ogunsanya,Travis Northwest,,,The Brass Tap,,11/08/2024 06:29 PM (CST),11/08/2024 06:53 PM (CST),5128159237,Completed,,,1.19,0,0,1,0,89.68,11.06
 446078,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Loro Asian Smokehouse & Bar,,11/08/2024 06:18 PM (CST),11/08/2024 06:34 PM (CST),9174531715,Completed,,,0,0,0,0,0,50.4,3.58
 445971,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,The Drag,,Downtown,Terry Black's Barbecue,Downtown,11/08/2024 05:36 PM (CST),11/08/2024 05:51 PM (CST),3107203516,Completed,,,0,0,0,0,0,41.44,2.66
-445944,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,The Drag,,Downtown,Chapul’n Cantina,,11/08/2024 05:25 PM (CST),11/08/2024 05:48 PM (CST),9143562100,Completed,,,0,0,0,0,0,67.66,3.24
+445944,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,The Drag,,Downtown,Chapulï¿½n Cantina,,11/08/2024 05:25 PM (CST),11/08/2024 05:48 PM (CST),9143562100,Completed,,,0,0,0,0,0,67.66,3.24
 445864,Ogunsanya Olufunsho (Transport),Scheduled,B,Craig Ogunsanya,North Burnet,Radius 4,Domain,The Boat,Domain,11/08/2024 05:01 PM (CST),11/08/2024 05:10 PM (CST),9522109336,Completed,,,0,0,0,1,0,65.3,1.72
 445884,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,Tarrytown,,,Gourdough's,,11/08/2024 04:44 PM (CST),11/08/2024 05:02 PM (CST),7328909961,Completed,,,0,0,0,0,0,78.72,4.31
 445835,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,The Drag,,Downtown,Fairmont Austin,Downtown,11/08/2024 03:12 PM (CST),11/08/2024 03:22 PM (CST),6783137682,Completed,,,0,0,0,1,0,54,2.23
@@ -2357,7 +2356,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 441760,Adeniyi Oloyede (TRANSPORT),Ride Now,BB,Ade Oloyede,West Campus,,Downtown,Speakeasy,Downtown,11/02/2024 10:29 PM (CDT),11/02/2024 10:39 PM (CDT),2544218294,Completed,,,0,0,0,0,0,76.72,1.61
 441852,Van 10 Transport ATX,Ride Now,B,uzo Uzo,West Campus,,Downtown,The Aquarium on 6th,Downtown,11/02/2024 10:29 PM (CDT),11/02/2024 10:49 PM (CDT),9562827460,Completed,,,0,0,1,0,0,58.5,2.48
 441750,Bankole O (T-ATX),Ride Now,C,Bankole Okunbolade,Rosedale,,Downtown,222 East 6th Street,Downtown,11/02/2024 10:20 PM (CDT),11/02/2024 10:30 PM (CDT),4692791335,Completed,,,0,0,0,0,0,122.36,3.77
-441694,Philisani Dlamini (TRANSPORT),Ride Now,C,Philisani Dlamini,5200 Tapadera Trace Lane,,Domain,Oilcan HarryÕs,Downtown,11/02/2024 10:19 PM (CDT),11/02/2024 10:42 PM (CDT),8326423362,Completed,,,0,0,0,0,0,108.27,15.72
+441694,Philisani Dlamini (TRANSPORT),Ride Now,C,Philisani Dlamini,5200 Tapadera Trace Lane,,Domain,Oilcan Harryï¿½s,Downtown,11/02/2024 10:19 PM (CDT),11/02/2024 10:42 PM (CDT),8326423362,Completed,,,0,0,0,0,0,108.27,15.72
 441600,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,West Campus,,Downtown,222 East 6th Street,Downtown,11/02/2024 10:04 PM (CDT),11/02/2024 10:13 PM (CDT),9564915156,Completed,,,0,0,0,0,0,45.04,1.94
 441333,Ogunsanya Olufunsho (Transport),Ride Now,AA,Craig Ogunsanya,West Campus,,Downtown,Soho Lounge,Downtown,11/02/2024 09:42 PM (CDT),11/02/2024 09:53 PM (CDT),4694967484,Completed,,,0,0,0,0,0,77.28,1.68
 441388,Van 10 Transport ATX,Ride Now,B,uzo Uzo,W Parmer Ln,,,Lefty's Brick Bar,,11/02/2024 09:41 PM (CDT),11/02/2024 10:09 PM (CDT),5128530055,Completed,,,0,0,0,0,0,135,18.19
@@ -2890,7 +2889,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 415427,Mohamed Bataineh (ESBEE),Ride Now,A,Mohamed Bataineh,West Campus,,Downtown,Zeta Tau Alpha,Downtown,10/17/2024 09:53 PM (CDT),10/17/2024 10:00 PM (CDT),9366971797,Completed,,,0,0,0,0,0,56.65,0.88
 415397,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,Rosedale,,Downtown,HillTop,Downtown,10/17/2024 09:46 PM (CDT),10/17/2024 09:55 PM (CDT),2817819655,Completed,,,0,0,0,0,0,74.23,2.15
 415331,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Market District,,Downtown,The Villas at San Gabriel,Downtown,10/17/2024 09:35 PM (CDT),10/17/2024 09:46 PM (CDT),5046073851,Completed,,,0,0,0,0,0,80.5,2.24
-415169,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Lim—n,Downtown,10/17/2024 08:44 PM (CDT),10/17/2024 08:49 PM (CDT),5129832777,Completed,,,0,0,0,0,0,42,1.09
+415169,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Limï¿½n,Downtown,10/17/2024 08:44 PM (CDT),10/17/2024 08:49 PM (CDT),5129832777,Completed,,,0,0,0,0,0,42,1.09
 415083,Mohamed Bataineh (ESBEE),Ride Now,A,Mohamed Bataineh,West Campus,,Downtown,Dirty Martin's Place,Downtown,10/17/2024 08:14 PM (CDT),10/17/2024 08:24 PM (CDT),8303029466,Completed,,,0,0,0,0,0,71.68,0.81
 414996,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Spicy Szechuan,Downtown,10/17/2024 07:41 PM (CDT),10/17/2024 07:51 PM (CDT),8327254280,Completed,,,0,0,0,0,0,75.27,2.34
 414941,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,The Drag,,Downtown,Industry,Downtown,10/17/2024 07:18 PM (CDT),10/17/2024 07:35 PM (CDT),4695628647,Completed,,,0,0,0,0,0,47.44,2.67
@@ -3200,8 +3199,8 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 396889,Ogunsanya Olufunsho (Transport),Scheduled,N/A,Craig Ogunsanya,4000 Balcones Drive,Radius 2,,St Stephens Episcopal School Football Stadium,,09/28/2024 08:14 PM (CDT),09/28/2024 08:34 PM (CDT),5127494846,Completed,,,0,0,0,1,1,70,7.35
 396795,Philisani Dlamini (TRANSPORT),Ride Now,BB,Philisani Dlamini,West Campus,,Downtown,6013 Loyola Ln,,09/28/2024 08:13 PM (CDT),09/28/2024 08:43 PM (CDT),9562827540,Completed,,,0,0,0,0,0,106.32,7.71
 396752,Mohamed Bataineh (ESBEE),Ride Now,CC,Mohamed Bataineh,Montopolis,,,Germania Insurance Amphitheater,,09/28/2024 07:45 PM (CDT),09/28/2024 08:10 PM (CDT),6199473353,Completed,,,0.75,0,0,1,0,175.41,9.81
-396714,Adeniyi Oloyede (TRANSPORT),Scheduled,N/A,Ade Oloyede,PrŽlude,Radius 1,Downtown,Circuit of the Americas,,09/28/2024 07:43 PM (CDT),09/28/2024 08:18 PM (CDT),2106831815,Completed,,,0,0,0,1,0,90.72,15.19
-396654,Jerome Ubu (Transport),Scheduled,DD,Jerome Ubu,4305 Palladio Dr,Radius 3,Domain,St. StephenÕs Episcopal School,,09/28/2024 07:38 PM (CDT),09/28/2024 07:54 PM (CDT),5127972856,Completed,,,1.59,0,0,1,0,115.92,5.09
+396714,Adeniyi Oloyede (TRANSPORT),Scheduled,N/A,Ade Oloyede,Prï¿½lude,Radius 1,Downtown,Circuit of the Americas,,09/28/2024 07:43 PM (CDT),09/28/2024 08:18 PM (CDT),2106831815,Completed,,,0,0,0,1,0,90.72,15.19
+396654,Jerome Ubu (Transport),Scheduled,DD,Jerome Ubu,4305 Palladio Dr,Radius 3,Domain,St. Stephenï¿½s Episcopal School,,09/28/2024 07:38 PM (CDT),09/28/2024 07:54 PM (CDT),5127972856,Completed,,,1.59,0,0,1,0,115.92,5.09
 396541,Bankole O (T-ATX),Ride Now,C,Bankole Okunbolade,Moontower,,Downtown,6013 Loyola Lane,,09/28/2024 07:06 PM (CDT),09/28/2024 07:41 PM (CDT),8303359493,Completed,,,0,0,0,0,0,102.48,6.76
 396493,Ogunsanya Olufunsho (Transport),Ride Now,C,Craig Ogunsanya,Galindo,,,6013 Loyola Lane,,09/28/2024 07:04 PM (CDT),09/28/2024 07:25 PM (CDT),7373779277,Completed,,,0,0,0,0,0,117.26,13.45
 396562,Philisani Dlamini (TRANSPORT),Ride Now,BB,Philisani Dlamini,The Drag,,Downtown,6013 Loyola Ln,,09/28/2024 06:58 PM (CDT),09/28/2024 07:45 PM (CDT),7262346050,Completed,,,0,0,0,0,0,102.12,7.55
@@ -3230,7 +3229,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 395809,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,Shoal Crest,,Downtown,Delta Tau Delta,Downtown,09/28/2024 02:11 PM (CDT),09/28/2024 02:21 PM (CDT),9736060402,Completed,,,0,0,0,0,0,36.19,0.91
 395803,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,West Campus,,Downtown,Darrell K Royal Texas Memorial Stadium,Downtown,09/28/2024 02:11 PM (CDT),09/28/2024 02:25 PM (CDT),3619605271,Completed,,,0,0,0,0,0,76.86,1.63
 395715,Jerome Ubu (Transport),Scheduled,A,Jerome Ubu,211 East 3rd Street,Radius 1,Downtown,Darrell K Royal Texas Memorial Stadium,Downtown,09/28/2024 02:00 PM (CDT),09/28/2024 02:16 PM (CDT),9037462882,Completed,,,0,0,0,0,0,27.46,1.63
-395702,Philisani Dlamini (TRANSPORT),Ride Now,C,Philisani Dlamini,2205 Montclaire Street,,,Hotel San JosŽ,,09/28/2024 01:42 PM (CDT),09/28/2024 01:57 PM (CDT),4802702145,Completed,,,0,0,0,1,0,54.24,2.32
+395702,Philisani Dlamini (TRANSPORT),Ride Now,C,Philisani Dlamini,2205 Montclaire Street,,,Hotel San Josï¿½,,09/28/2024 01:42 PM (CDT),09/28/2024 01:57 PM (CDT),4802702145,Completed,,,0,0,0,1,0,54.24,2.32
 395712,Mohamed Bataineh (ESBEE),Ride Now,A,Mohamed Bataineh,West Campus,,Downtown,Delta Tau Delta,Downtown,09/28/2024 01:31 PM (CDT),09/28/2024 01:40 PM (CDT),7027429778,Completed,,,0,0,0,0,0,57.09,0.95
 395573,Bankole O (T-ATX),Scheduled,B,Bankole Okunbolade,East Congress,Radius 3,,2515 Speedway,Downtown,09/28/2024 01:14 PM (CDT),09/28/2024 01:15 PM (CDT),8326383086,Completed,,,0,0,0,1,0,90.97,6.58
 395650,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,918 East 37th Street,,Downtown,Banger's,Downtown,09/28/2024 01:13 PM (CDT),09/28/2024 01:23 PM (CDT),8475081446,Completed,,,0,0,0,0,0,54.72,3.05
@@ -3363,7 +3362,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 391457,Ogunsanya Olufunsho (Transport),Scheduled,C,Craig Ogunsanya,Barton Club Dr,Radius 3,,La Condesa,Downtown,09/26/2024 07:13 PM (CDT),09/26/2024 07:34 PM (CDT),2146167559,Completed,,,0,0,0,1,0,131.6,9.66
 391437,Mohamed Bataineh (ESBEE),Scheduled,A,Mohamed Bataineh,North University,Radius 1,Downtown,Matt's El Rancho,,09/26/2024 06:50 PM (CDT),09/26/2024 07:11 PM (CDT),2143997635,Completed,,,0,0,0,0,0,70.8,5.94
 391432,Jerome Ubu (Transport),Ride Now,B,Jerome Ubu,4809 Copperbend Boulevard,,,Cosmic Saltillo,,09/26/2024 06:49 PM (CDT),09/26/2024 07:11 PM (CDT),5043150372,Completed,,,0,0,0,1,0,71.83,5.62
-391431,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,Scottish Rite Dormitory,Radius 1,Downtown,Salsa Lim—n,Downtown,09/26/2024 06:49 PM (CDT),09/26/2024 06:52 PM (CDT),2816703144,Completed,,,0,0,0,0,0,60.24,0.58
+391431,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,Scottish Rite Dormitory,Radius 1,Downtown,Salsa Limï¿½n,Downtown,09/26/2024 06:49 PM (CDT),09/26/2024 06:52 PM (CDT),2816703144,Completed,,,0,0,0,0,0,60.24,0.58
 391438,Bankole O (T-ATX),Scheduled,A,Bankole Okunbolade,West Campus,Radius 1,Downtown,3825 Lake Austin Boulevard,,09/26/2024 06:44 PM (CDT),09/26/2024 06:54 PM (CDT),7136142361,Completed,,,0,0,0,0,0,84.14,2.87
 391319,Philisani Dlamini (TRANSPORT),Ride Now,D,Philisani Dlamini,Southeast Austin,,,Austin Visitor Center,Downtown,09/26/2024 08:51 AM (CDT),09/26/2024 09:16 AM (CDT),2345675436,Completed,,,0.5,0,0,0,0,69.51,11.39
 391197,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Shoal Crest,,Downtown,Moody's Kitchen and Bar,Downtown,09/25/2024 11:08 PM (CDT),09/25/2024 11:12 PM (CDT),2245072233,Completed,,,0,0,0,0,0,24.75,0.43
@@ -3696,7 +3695,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 379867,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,North University,,Downtown,2309 Longview Street,Downtown,09/13/2024 10:11 PM (CDT),09/13/2024 10:18 PM (CDT),5127455530,Completed,,,0,0,0,1,0,56.43,1.14
 379799,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,University of Texas KA house,Downtown,09/13/2024 10:05 PM (CDT),09/13/2024 10:09 PM (CDT),5129541711,Completed,,,0,0,0,0,0,61.08,0.73
 379797,Mohamed Bataineh (ESBEE),Ride Now,A,Mohamed Bataineh,West Campus,,Downtown,The Aquarium on 6th,Downtown,09/13/2024 09:54 PM (CDT),09/13/2024 10:04 PM (CDT),5125457791,Completed,,,0,0,0,0,0,41.37,2.63
-379671,Bankole O (T-ATX),Ride Now,C,Bankole Okunbolade,Barton Hills,,,Perry-Casta–eda Library,Downtown,09/13/2024 09:45 PM (CDT),09/13/2024 09:58 PM (CDT),5125293383,Completed,,,0,0,0,0,0,95.48,5.09
+379671,Bankole O (T-ATX),Ride Now,C,Bankole Okunbolade,Barton Hills,,,Perry-Castaï¿½eda Library,Downtown,09/13/2024 09:45 PM (CDT),09/13/2024 09:58 PM (CDT),5125293383,Completed,,,0,0,0,0,0,95.48,5.09
 379701,Jerome Ubu (Transport),Ride Now,A,Jerome Ubu,The Drag,,Downtown,Devil May Care,Downtown,09/13/2024 09:44 PM (CDT),09/13/2024 09:53 PM (CDT),6509664869,Completed,,,0,0,0,0,0,59.07,1.35
 379676,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,Bouldin Creek,,,2808 San Pedro Street,Downtown,09/13/2024 09:43 PM (CDT),09/13/2024 09:57 PM (CDT),8065706665,Completed,,,0,0,2,0,0,79.92,4.63
 379552,Jerome Ubu (Transport),Ride Now,AA,Jerome Ubu,Barton Hills,,,2005 University Avenue,Downtown,09/13/2024 09:16 PM (CDT),09/13/2024 09:31 PM (CDT),2015625983,Completed,,,0,0,0,0,0,68.2,5.07
@@ -3706,7 +3705,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 379448,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,East Oak Hill,,,Alpha Phi,Downtown,09/13/2024 08:40 PM (CDT),09/13/2024 08:53 PM (CDT),7132044347,Completed,,,0,0,0,0,0,43.32,6.41
 379386,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,Camp Craft Rd,,,3106 Eaneswood Drive,,09/13/2024 08:26 PM (CDT),09/13/2024 08:31 PM (CDT),7027429510,Completed,,,0,0,0,0,0,65.52,1.55
 379340,Jerome Ubu (Transport),Ride Now,A,Jerome Ubu,West Campus,,Downtown,La Mancha Tex Mex Tavern,,09/13/2024 08:02 PM (CDT),09/13/2024 08:13 PM (CDT),9173279897,Completed,,,0,0,0,0,0,47.84,2.8
-379323,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,West Campus,Radius 1,Downtown,Salsa Lim—n,Downtown,09/13/2024 08:00 PM (CDT),09/13/2024 08:05 PM (CDT),4695785708,Completed,,,0,0,0,0,0,67.6,0.98
+379323,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,West Campus,Radius 1,Downtown,Salsa Limï¿½n,Downtown,09/13/2024 08:00 PM (CDT),09/13/2024 08:05 PM (CDT),4695785708,Completed,,,0,0,0,0,0,67.6,0.98
 379292,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Polvos Mexican Restaurant,,09/13/2024 07:51 PM (CDT),09/13/2024 08:00 PM (CDT),2107890806,Completed,,,0,0,0,0,0,96.74,5.39
 379264,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Market District,,Downtown,Rise at West Campus,Downtown,09/13/2024 07:36 PM (CDT),09/13/2024 07:46 PM (CDT),4325595272,Completed,,,0,0,0,0,0,46.24,2.32
 379203,Jerome Ubu (Transport),Ride Now,A,Jerome Ubu,Market District,,Downtown,Rise at West Campus,Downtown,09/13/2024 07:31 PM (CDT),09/13/2024 07:47 PM (CDT),4326388027,Completed,,,0,0,0,0,0,79.8,2.09
@@ -3717,7 +3716,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 379047,Mohamed Bataineh (ESBEE),Scheduled,D,Mohamed Bataineh,W Mercer St,Radius 6,,515 Twidwell Dr,,09/13/2024 06:43 PM (CDT),09/13/2024 07:03 PM (CDT),9727424210,Completed,,,4.58,0,0,0,0,124.6,8.62
 378991,Jerome Ubu (Transport),Scheduled,C,Jerome Ubu,Travis Northwest,Radius 5,,Matt's El Rancho,,09/13/2024 06:04 PM (CDT),09/13/2024 06:58 PM (CDT),5126532337,Completed,,,0,0,0,0,0,166.39,35.31
 379016,Adeniyi Oloyede (TRANSPORT),Scheduled,A,Ade Oloyede,The Callaway House Austin,Radius 1,Downtown,Polvos Mexican Restaurant,,09/13/2024 05:46 PM (CDT),09/13/2024 05:59 PM (CDT),5129939590,Completed,,,0,0,0,0,0,98,5.68
-379002,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,IreneÕs,Downtown,09/13/2024 05:20 PM (CDT),09/13/2024 05:28 PM (CDT),5125669931,Completed,,,0,0,0,0,0,74.76,1.31
+379002,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Ireneï¿½s,Downtown,09/13/2024 05:20 PM (CDT),09/13/2024 05:28 PM (CDT),5125669931,Completed,,,0,0,0,0,0,74.76,1.31
 378989,Mohamed Bataineh (ESBEE),Ride Now,A,Mohamed Bataineh,Hancock,,Downtown,6801 Cypress Point Cove,,09/13/2024 05:07 PM (CDT),09/13/2024 05:44 PM (CDT),9083436368,Completed,,,0,0,0,0,0,90,12.34
 378967,Philisani Dlamini (TRANSPORT),Ride Now,AA,Philisani Dlamini,2501 Leon Street,,Downtown,Cabana Club,,09/13/2024 03:49 PM (CDT),09/13/2024 04:10 PM (CDT),6469235444,Completed,,,0,0,0,0,0,47.95,5.16
 378953,Jerome Ubu (Transport),Ride Now,B,Jerome Ubu,East Austin,,,17141 Rocky Ridge Road,,09/13/2024 03:10 PM (CDT),09/13/2024 04:12 PM (CDT),9144389617,Completed,,,0,0,0,1,0,153.68,26.02
@@ -3857,7 +3856,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 373619,Jerome Ubu (Transport),Ride Now,B,Jerome Ubu,Barton Hills,,,Bar Peached,Downtown,09/06/2024 07:55 PM (CDT),09/06/2024 08:08 PM (CDT),8316012666,Completed,,,0,0,0,1,0,55.44,2.68
 373615,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,Downtown Austin,,Downtown,Buford's,Downtown,09/06/2024 07:48 PM (CDT),09/06/2024 07:57 PM (CDT),8139513608,Completed,,,0,0,0,0,0,44.88,1.9
 373573,Philisani Dlamini (TRANSPORT),Ride Now,B,Philisani Dlamini,Riverside,,,Aba Austin,,09/06/2024 07:31 PM (CDT),09/06/2024 07:38 PM (CDT),8586921758,Completed,,,0,0,0,0,0,45.6,2.1
-373577,Jerome Ubu (Transport),Ride Now,A,Jerome Ubu,West Campus,,Downtown,IreneÕs,Downtown,09/06/2024 07:28 PM (CDT),09/06/2024 07:38 PM (CDT),2107890806,Completed,,,0,0,0,0,0,78.4,1.88
+373577,Jerome Ubu (Transport),Ride Now,A,Jerome Ubu,West Campus,,Downtown,Ireneï¿½s,Downtown,09/06/2024 07:28 PM (CDT),09/06/2024 07:38 PM (CDT),2107890806,Completed,,,0,0,0,0,0,78.4,1.88
 373492,Philisani Dlamini (TRANSPORT),Scheduled,C,Philisani Dlamini,1513 Manana Street,Radius 3,,Aba Austin,,09/06/2024 06:30 PM (CDT),09/06/2024 07:08 PM (CDT),8643223946,Completed,,,0,0,0,1,0,108.72,16.67
 373462,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,North University,,Downtown,Beta Upsilon Chi (BYX),Downtown,09/06/2024 04:48 PM (CDT),09/06/2024 04:54 PM (CDT),4324130397,Completed,,,0,0,0,0,0,62.52,1.01
 373448,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Travis Northwest,,,26 West,Downtown,09/06/2024 04:11 PM (CDT),09/06/2024 04:51 PM (CDT),7323201363,Completed,,,0,0,0,0,0,196.9,23.93
@@ -4340,7 +4339,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 356427,Philisani Dlamini (TRANSPORT),Ride Now,B,Philisani Dlamini,East End,,Downtown,Buckshot,Downtown,08/08/2024 11:28 PM (CDT),08/08/2024 11:34 PM (CDT),4074627250,Completed,,,0,0,0,0,0,70.56,0.63
 356381,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,Market District,,Downtown,Great Hills,Domain,08/08/2024 10:08 PM (CDT),08/08/2024 10:28 PM (CDT),5122941032,Completed,,,0,0,0,0,0,70.56,12.46
 356352,Ogunsanya Olufunsho (Transport),Ride Now,C,Craig Ogunsanya,Marcus Abrams Blvd,,,Barbarella Austin,Downtown,08/08/2024 09:46 PM (CDT),08/08/2024 10:12 PM (CDT),5125457230,Completed,,,0,0,0,0,0,90,14.43
-356324,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,IreneÕs,Downtown,08/08/2024 08:37 PM (CDT),08/08/2024 08:43 PM (CDT),2818138804,Completed,,,0,0,0,0,0,74.9,1.31
+356324,Adeniyi Oloyede (TRANSPORT),Ride Now,A,Ade Oloyede,West Campus,,Downtown,Ireneï¿½s,Downtown,08/08/2024 08:37 PM (CDT),08/08/2024 08:43 PM (CDT),2818138804,Completed,,,0,0,0,0,0,74.9,1.31
 356309,Mohamed Bataineh (ESBEE),Ride Now,A,Mohamed Bataineh,Rosedale,,Downtown,Polvo's Downtown Central,Downtown,08/08/2024 07:46 PM (CDT),08/08/2024 07:56 PM (CDT),8056571992,Completed,,,0,0,0,0,0,68.1,5.05
 356306,Mohamed Bataineh (ESBEE),Ride Now,A,Mohamed Bataineh,West Campus,,Downtown,Santa Rita Cantina,Downtown,08/08/2024 07:30 PM (CDT),08/08/2024 07:39 PM (CDT),8056571992,Completed,,,0,0,0,0,0,56.1,1.9
 356271,Mohamed Bataineh (ESBEE),Ride Now,C,Mohamed Bataineh,Congress Ave District,,Downtown,Quarry Oaks II,Domain,08/08/2024 08:34 AM (CDT),08/08/2024 08:57 AM (CDT),6509306864,Completed,,,0,0,0,0,0,135.19,12.19
@@ -4401,7 +4400,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 355220,Bankole O (T-ATX),Ride Now,C,Bankole Okunbolade,N Capital of Texas Hwy,,,1126 Linden Street,,08/03/2024 07:26 PM (CDT),08/03/2024 07:47 PM (CDT),5126330642,Completed,,,0,0,0,0,0,100.08,16.51
 355217,Adeniyi Oloyede (TRANSPORT),Ride Now,C,Ade Oloyede,N Capital of Texas Hwy,,,Sandbox VR,Domain,08/03/2024 07:23 PM (CDT),08/03/2024 07:41 PM (CDT),6303638432,Completed,,,0,0,0,1,0,101.28,7.13
 355233,Mohamed Bataineh (ESBEE),Ride Now,A,Mohamed Bataineh,Travis Southwest,,,Lenox Park,,08/03/2024 07:16 PM (CDT),08/03/2024 08:00 PM (CDT),9564245413,Completed,,,0,0,0,1,0,225.96,25.41
-355180,Ogunsanya Olufunsho (Transport),Ride Now,B,Craig Ogunsanya,The Triangle,,,FloÕs Wine Bar and Bottle Shop,,08/03/2024 07:02 PM (CDT),08/03/2024 07:10 PM (CDT),6023168281,Completed,,,0,0,0,0,0,35.04,2.45
+355180,Ogunsanya Olufunsho (Transport),Ride Now,B,Craig Ogunsanya,The Triangle,,,Floï¿½s Wine Bar and Bottle Shop,,08/03/2024 07:02 PM (CDT),08/03/2024 07:10 PM (CDT),6023168281,Completed,,,0,0,0,0,0,35.04,2.45
 355098,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,2606 Wilson Street,Radius 2,,GameOn! ATX,,08/03/2024 06:13 PM (CDT),08/03/2024 06:40 PM (CDT),9143197711,Completed,,,0,0,0,1,0,127.56,11.72
 355087,Ogunsanya Olufunsho (Transport),Scheduled,C,Craig Ogunsanya,Southeast Austin,Radius 4,,Maggie Mae's,Downtown,08/03/2024 06:00 PM (CDT),08/03/2024 06:29 PM (CDT),5127674464,Completed,,,0,0,0,1,0,64.82,9.45
 355065,Mohamed Bataineh (ESBEE),Scheduled,B,Mohamed Bataineh,Oak Springs,Radius 2,,Perla's,,08/03/2024 05:29 PM (CDT),08/03/2024 05:48 PM (CDT),4693866921,Completed,,,0,0,0,1,0,64.56,5.91
@@ -4570,7 +4569,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 352092,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,MAA South Lamar,,,The Rustic Tap,Downtown,07/26/2024 09:36 PM (CDT),07/26/2024 09:42 PM (CDT),9723100863,Completed,,,0,0,0,0,0,44.8,1.88
 352023,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,Sazon,,,Nueces Flats,Downtown,07/26/2024 08:53 PM (CDT),07/26/2024 08:58 PM (CDT),4159942804,Completed,,,0,0,0,0,0,52.02,2.31
 352015,Philisani Dlamini (TRANSPORT),Scheduled,B,Philisani Dlamini,Blackland,Radius 1,,1515 Dungan Ln #200,,07/26/2024 08:42 PM (CDT),07/26/2024 08:57 PM (CDT),7372392794,Completed,,,0,0,0,1,0,117.18,6.9
-351993,Tolulope O (Saphar),Ride Now,B,Tolulope Ogunlade,North Loop,,,IreneÕs,Downtown,07/26/2024 08:28 PM (CDT),07/26/2024 08:38 PM (CDT),4235980609,Completed,,,0,0,0,0,0,59.94,4.62
+351993,Tolulope O (Saphar),Ride Now,B,Tolulope Ogunlade,North Loop,,,Ireneï¿½s,Downtown,07/26/2024 08:28 PM (CDT),07/26/2024 08:38 PM (CDT),4235980609,Completed,,,0,0,0,0,0,59.94,4.62
 351999,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,It's Italian Cucina,,,The Stay Put,Downtown,07/26/2024 08:19 PM (CDT),07/26/2024 08:30 PM (CDT),6512694964,Completed,,,0,0,0,1,0,100.52,3.31
 351980,Adeniyi Oloyede (TRANSPORT),Scheduled,C,Ade Oloyede,Travis Southwest,Radius 5,,1194 Navasota Street,Downtown,07/26/2024 08:05 PM (CDT),07/26/2024 08:43 PM (CDT),9563249473,Completed,,,0,0,0,1,0,155.43,22.78
 351959,Philisani Dlamini (TRANSPORT),Scheduled,A,Philisani Dlamini,Bouldin Creek,Radius 2,,Nixta Taqueria,,07/26/2024 07:36 PM (CDT),07/26/2024 07:58 PM (CDT),6096387177,Completed,,,0,0,0,1,0,68.31,4.43
@@ -4581,7 +4580,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 351829,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Sixth Street,,Downtown,11406 Indianhead Drive,,07/26/2024 03:33 PM (CDT),07/26/2024 03:53 PM (CDT),5126305960,Completed,,,0,0,0,0,0,73.26,9.24
 351817,Tolulope O (Saphar),Scheduled,B,Tolulope Ogunlade,13987 Ranch to Market Road 2769,Radius 5,,1221 South Congress Avenue,,07/26/2024 03:16 PM (CDT),07/26/2024 04:00 PM (CDT),3378495975,Completed,,,0,0,0,0,0,127.17,19.24
 351784,Philisani Dlamini (TRANSPORT),Scheduled,B,Philisani Dlamini,1221 South Congress Avenue,Radius 1,,13987 Ranch to Market Road 2769,,07/26/2024 10:54 AM (CDT),07/26/2024 11:33 AM (CDT),3378495975,Completed,,,0,0,0,0,0,127.44,19.29
-351785,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,Indianhead Dr,,,IreneÕs,Downtown,07/26/2024 10:42 AM (CDT),07/26/2024 11:05 AM (CDT),5126305960,Completed,,,0,0,0,0,0,77.4,10.01
+351785,Adeniyi Oloyede (TRANSPORT),Ride Now,B,Ade Oloyede,Indianhead Dr,,,Ireneï¿½s,Downtown,07/26/2024 10:42 AM (CDT),07/26/2024 11:05 AM (CDT),5126305960,Completed,,,0,0,0,0,0,77.4,10.01
 351777,Bankole O (T-ATX),Scheduled,A,Bankole Okunbolade,Downtown Austin,Radius 1,,5019 North Capital of Texas Highway,,07/26/2024 10:09 AM (CDT),07/26/2024 10:30 AM (CDT),9204959679,Completed,,,0,0,0,0,0,93.44,15.13
 351765,Ogunsanya Olufunsho (Transport),Scheduled,A,Craig Ogunsanya,Sixth Street,Radius 1,Downtown,476 Suffield Drive,,07/26/2024 01:55 AM (CDT),07/26/2024 02:21 AM (CDT),7138055760,Completed,,,0,0,0,0,0,113.67,16.72
 351763,Ogunsanya Olufunsho (Transport),Ride Now,A,Craig Ogunsanya,Sixth Street,,Downtown,712 Graham Place,Downtown,07/26/2024 01:28 AM (CDT),07/26/2024 01:40 AM (CDT),3462745677,Completed,,,0,0,0,0,0,35.72,2.73
@@ -4799,7 +4798,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 347857,Tolulope O (Saphar),Ride Now,B,Tolulope Ogunlade,9700 Springdale Road,,,AMLI South Shore,,07/13/2024 12:13 PM (CDT),07/13/2024 12:38 PM (CDT),4407734753,Completed,,,0,0,0,0,0,60.76,10.14
 347829,Bankole O (T-ATX),Scheduled,A,Bankole Okunbolade,Clarksville,Radius 1,Downtown,360 Bridge,,07/13/2024 10:29 AM (CDT),07/13/2024 10:42 AM (CDT),7206267663,Completed,,,0,0,0,0,0,72.03,12.82
 347816,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,East End,,Downtown,360 Bridge,,07/13/2024 10:02 AM (CDT),07/13/2024 10:24 AM (CDT),2142635467,Completed,,,0,0,0,0,0,124.81,16.47
-347814,Bankole O (T-ATX),Scheduled,B,Bankole Okunbolade,3304 Westland Drive,Radius 2,,IreneÕs,Downtown,07/13/2024 09:59 AM (CDT),07/13/2024 10:06 AM (CDT),2257175143,Completed,,,0,0,0,0,0,63.5,3.74
+347814,Bankole O (T-ATX),Scheduled,B,Bankole Okunbolade,3304 Westland Drive,Radius 2,,Ireneï¿½s,Downtown,07/13/2024 09:59 AM (CDT),07/13/2024 10:06 AM (CDT),2257175143,Completed,,,0,0,0,0,0,63.5,3.74
 347805,Adeniyi Oloyede (TRANSPORT),Scheduled,B,Ade Oloyede,Whole Foods Market,Radius 1,Downtown,Mansfield Dam,,07/13/2024 09:52 AM (CDT),07/13/2024 10:25 AM (CDT),6786229935,Completed,,,0,0,0,1,0,117.84,18.55
 347788,Otu Ogbonnaya (Transport),Scheduled,D,Otu Ogbonnaya,Travis Southwest,Radius 5,,17141 Rocky Ridge Road,,07/13/2024 09:47 AM (CDT),07/13/2024 10:05 AM (CDT),9037245933,Completed,,,3.45,0,0,1,0,91.84,5.79
 347790,Ogunsanya Olufunsho (Transport),Scheduled,C,Craig Ogunsanya,606 Clifford Dr,Radius 2,,17141 Rocky Ridge Road,,07/13/2024 09:34 AM (CDT),07/13/2024 10:30 AM (CDT),8322667500,Completed,,,0,0,0,1,0,259.7,24.93
@@ -4855,7 +4854,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 347034,Tolulope O (Saphar),Ride Now,C,Tolulope Ogunlade,Cat Mountain,,,360 Bridge,,07/12/2024 04:46 PM (CDT),07/12/2024 04:56 PM (CDT),5127433913,Completed,,,0,0,0,1,0,91.2,4.44
 347026,Mohamed Bataineh (ESBEE),Ride Now,A,Mohamed Bataineh,Travis Northwest,,,1133 Map Street,,07/12/2024 04:01 PM (CDT),07/12/2024 04:41 PM (CDT),3303976240,Completed,,,0,0,0,1,0,249.34,23.7
 346993,Adeniyi Oloyede (TRANSPORT),Scheduled,A,Ade Oloyede,1108 E 3rd St,Radius 1,Downtown,Big Tex Boat Rentals,,07/12/2024 01:35 PM (CDT),07/12/2024 02:23 PM (CDT),2034495721,Completed,,,0,0,0,1,0,140.63,27.51
-346987,Ogunsanya Olufunsho (Transport),Scheduled,B,Craig Ogunsanya,Sweetbriar,Radius 3,,Don's Fish Camp,,07/12/2024 01:21 PM (CDT),07/12/2024 02:18 PM (CDT),8136596152,Completed,2024-07-12 13:21:30,The numbers of passengers are 7. The person that scanned for the 7 cards didnÕt go through and I couldnÕt remove those 7 from the app. She will call to clarify that. I picked up only 7 passengers not 14.,0,0,1,0,0,132.86,27.32
+346987,Ogunsanya Olufunsho (Transport),Scheduled,B,Craig Ogunsanya,Sweetbriar,Radius 3,,Don's Fish Camp,,07/12/2024 01:21 PM (CDT),07/12/2024 02:18 PM (CDT),8136596152,Completed,2024-07-12 13:21:30,The numbers of passengers are 7. The person that scanned for the 7 cards didnï¿½t go through and I couldnï¿½t remove those 7 from the app. She will call to clarify that. I picked up only 7 passengers not 14.,0,0,1,0,0,132.86,27.32
 346986,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,Congress Ave District,,Downtown,Matt's El Rancho,,07/12/2024 12:40 PM (CDT),07/12/2024 12:58 PM (CDT),9562799317,Completed,,,0,0,0,0,0,72.48,2.94
 346982,Mohamed Bataineh (ESBEE),Ride Now,C,Mohamed Bataineh,15030 Broken Bow Trail,,,5 Soul Wine Co,,07/12/2024 11:56 AM (CDT),07/12/2024 12:21 PM (CDT),2147291669,Completed,,,0,0,0,0,0,81.44,12.64
 346978,Mohamed Bataineh (ESBEE),Ride Now,A,Mohamed Bataineh,Mlk-183,,,13993 Farm to Market Rd 2769,,07/12/2024 10:48 AM (CDT),07/12/2024 11:31 AM (CDT),3303976240,Completed,,,0,0,0,1,0,262.78,25.28
@@ -5060,7 +5059,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 344104,Tolulope O (Saphar),Scheduled,D,Tolulope Ogunlade,West End,Radius 1,Downtown,5204 Ranch Road 2222,,07/04/2024 10:58 AM (CDT),07/04/2024 11:14 AM (CDT),8173720651,Completed,,,0,0,0,1,0,129.78,8.23
 344056,Adeniyi Oloyede (TRANSPORT),Scheduled,C,Ade Oloyede,Springtown Way,Radius 6,,Texas Tubes,,07/04/2024 10:58 AM (CDT),07/04/2024 11:36 AM (CDT),5123934718,Completed,,,0,0,0,0,0,193.7,19.69
 344065,Otu Ogbonnaya (Transport),Scheduled,C,Otu Ogbonnaya,The Standard at Austin,Radius 1,Downtown,Aquaholics Watercraft Rental,,07/04/2024 10:39 AM (CDT),07/04/2024 11:21 AM (CDT),9369008342,Completed,2024-07-04 10:39:04,Only 11 passengers,0,0,1,0,0,166.76,20.12
-344045,Ogunsanya Olufunsho (Transport),Scheduled,A,Craig Ogunsanya,Elle West Ave,Radius 1,Downtown,Lake Travis Yacht Rentals,,07/04/2024 09:57 AM (CDT),07/04/2024 10:41 AM (CDT),7202316916,Completed,2024-07-04 09:57:08,"For some reason, the payment was not adding on another passengerÕs account who have already been check-in.",0,0,0,0,0,231.84,22.45
+344045,Ogunsanya Olufunsho (Transport),Scheduled,A,Craig Ogunsanya,Elle West Ave,Radius 1,Downtown,Lake Travis Yacht Rentals,,07/04/2024 09:57 AM (CDT),07/04/2024 10:41 AM (CDT),7202316916,Completed,2024-07-04 09:57:08,"For some reason, the payment was not adding on another passengerï¿½s account who have already been check-in.",0,0,0,0,0,231.84,22.45
 344039,Philisani Dlamini (TRANSPORT),Scheduled,C,Philisani Dlamini,8515 Brodie Lane unit 113,Radius 3,,VIP Marina Parking,,07/04/2024 09:55 AM (CDT),07/04/2024 10:40 AM (CDT),2064968449,Completed,,,0,0,0,0,0,241.28,25.79
 344044,Bankole O (T-ATX),Scheduled,B,Bankole Okunbolade,3600 Fleetwood Drive,Radius 2,,16209 Dodd St,,07/04/2024 09:53 AM (CDT),07/04/2024 10:22 AM (CDT),3375635487,Completed,,,0,0,0,0,0,138.88,23.78
 344041,Malik HTX (Temp),Scheduled,B,Malik Taiwo,Lenox 7th,Radius 2,,17141 Rocky Ridge Rd,,07/04/2024 09:47 AM (CDT),07/04/2024 10:36 AM (CDT),7327579868,Completed,,,0,0,0,0,0,170.32,30.33
@@ -5209,7 +5208,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 341897,Ogunsanya Olufunsho (Transport),Ride Now,A,Craig Ogunsanya,West End,,Downtown,301 West 5th Street,Downtown,06/28/2024 09:06 PM (CDT),06/28/2024 09:13 PM (CDT),7186692224,Completed,,,0,0,0,0,0,46.35,0.86
 341856,Otu Ogbonnaya (Transport),Scheduled,C,Otu Ogbonnaya,Travis Northwest,Radius 3,,The Rustic Tap,Downtown,06/28/2024 09:01 PM (CDT),06/28/2024 09:39 PM (CDT),2082775915,Completed,,,0,0,0,1,0,182,15.69
 341862,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,St. Edwards,,,304 E Cesar Chavez St unit 700,Downtown,06/28/2024 08:36 PM (CDT),06/28/2024 08:44 PM (CDT),9856917778,Completed,,,0,0,0,0,0,75.92,2.45
-341850,Adeniyi Oloyede (TRANSPORT),Scheduled,A,Ade Oloyede,The Villas at San Gabriel,Radius 1,Downtown,IreneÕs,Downtown,06/28/2024 08:17 PM (CDT),06/28/2024 08:23 PM (CDT),3464029087,Completed,,,0,0,0,0,0,56,1.87
+341850,Adeniyi Oloyede (TRANSPORT),Scheduled,A,Ade Oloyede,The Villas at San Gabriel,Radius 1,Downtown,Ireneï¿½s,Downtown,06/28/2024 08:17 PM (CDT),06/28/2024 08:23 PM (CDT),3464029087,Completed,,,0,0,0,0,0,56,1.87
 341834,Otu Ogbonnaya (Transport),Scheduled,A,Otu Ogbonnaya,West Campus,Radius 1,Downtown,Quince Lakehouse,,06/28/2024 08:03 PM (CDT),06/28/2024 08:15 PM (CDT),5407461270,Completed,,,0,0,0,0,0,65.45,2.71
 341808,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Market District,,Downtown,323 East 6th Street,Downtown,06/28/2024 07:21 PM (CDT),06/28/2024 07:24 PM (CDT),3152000523,Completed,,,0,0,0,0,0,51.3,0.84
 341791,Otu Ogbonnaya (Transport),Ride Now,A,Otu Ogbonnaya,Tarrytown,,Downtown,Polvo's Downtown Central,Downtown,06/28/2024 06:45 PM (CDT),06/28/2024 06:57 PM (CDT),5128155418,Completed,,,0,0,0,1,0,58.48,3.62
@@ -5335,9 +5334,9 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 339258,Otu Ogbonnaya (Transport),Ride Now,A,Otu Ogbonnaya,Market District,,Downtown,2414 Pearl Street,Downtown,06/21/2024 08:54 PM (CDT),06/21/2024 09:04 PM (CDT),8322432943,Completed,,,0,0,0,0,0,40.04,2.16
 339215,Ogunsanya Olufunsho (Transport),Ride Now,B,Craig Ogunsanya,Oak Springs,,,Taverna Austin (Downtown) | The Baci Room,Downtown,06/21/2024 08:26 PM (CDT),06/21/2024 08:43 PM (CDT),3619446798,Completed,,,0,0,0,0,0,71.72,4.21
 339234,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Barton Springs,,Downtown,Polvo's Downtown Central,Downtown,06/21/2024 08:25 PM (CDT),06/21/2024 08:35 PM (CDT),7138169431,Completed,,,0,0,0,0,0,48.78,1.47
-339208,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Lim—n,Downtown,06/21/2024 08:12 PM (CDT),06/21/2024 08:17 PM (CDT),4095993448,Completed,,,0,0,0,0,0,35.98,0.86
+339208,Philisani Dlamini (TRANSPORT),Ride Now,A,Philisani Dlamini,West Campus,,Downtown,Salsa Limï¿½n,Downtown,06/21/2024 08:12 PM (CDT),06/21/2024 08:17 PM (CDT),4095993448,Completed,,,0,0,0,0,0,35.98,0.86
 339205,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Adapt of Texas,,,Baby Acapulco,Downtown,06/21/2024 08:09 PM (CDT),06/21/2024 08:16 PM (CDT),8325152506,Completed,,,0,0,0,0,0,67.21,3.14
-339186,Otu Ogbonnaya (Transport),Ride Now,B,Otu Ogbonnaya,North University,,Downtown,IreneÕs,Downtown,06/21/2024 07:47 PM (CDT),06/21/2024 08:02 PM (CDT),8328206055,Completed,,,0,0,0,0,0,45.15,4.04
+339186,Otu Ogbonnaya (Transport),Ride Now,B,Otu Ogbonnaya,North University,,Downtown,Ireneï¿½s,Downtown,06/21/2024 07:47 PM (CDT),06/21/2024 08:02 PM (CDT),8328206055,Completed,,,0,0,0,0,0,45.15,4.04
 339172,Adeniyi Oloyede (TRANSPORT),Scheduled,C,Ade Oloyede,Pascal Ln,Radius 3,,3413 Cascadera Drive,,06/21/2024 07:45 PM (CDT),06/21/2024 08:03 PM (CDT),8327271100,Completed,,,0,0,0,0,0,85.69,8.33
 339174,Ogunsanya Olufunsho (Transport),Scheduled,B,Craig Ogunsanya,West Campus,Radius 1,Downtown,De Nada Cantina,,06/21/2024 07:44 PM (CDT),06/21/2024 08:02 PM (CDT),7133976418,Completed,,,0,0,0,0,0,88.27,5
 339171,Bankole O (T-ATX),Ride Now,C,Bankole Okunbolade,360 Bridge,,,1400 Royal Crest Drive,,06/21/2024 07:34 PM (CDT),06/21/2024 07:52 PM (CDT),6782008926,Completed,,,0,0,0,0,0,143.52,15.61
@@ -5540,7 +5539,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 332467,Bankole O (T-ATX),Ride Now,BB,Bankole Okunbolade,Tarrytown,,Downtown,The Library Bar,Downtown,05/31/2024 10:50 PM (CDT),05/31/2024 10:58 PM (CDT),5126604609,Completed,,,0,0,0,0,0,81.62,4.1
 332422,Bankole O (T-ATX),Ride Now,C,Bankole Okunbolade,Rosedale,,,5004 Westfield Drive,,05/31/2024 10:35 PM (CDT),05/31/2024 10:40 PM (CDT),5124614421,Completed,,,0,0,0,0,0,67.68,1.96
 332355,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,South Lamar,,,The Rustic Tap,Downtown,05/31/2024 10:12 PM (CDT),05/31/2024 10:18 PM (CDT),5129348090,Completed,,,0,0,0,0,0,66.33,2.93
-332209,Bankole O (T-ATX),Scheduled,C,Bankole Okunbolade,Travis Northwest,Radius 4,,Salsa Lim—n,Downtown,05/31/2024 07:52 PM (CDT),05/31/2024 08:20 PM (CDT),5125176663,Completed,,,0,0,0,0,0,110.08,18.62
+332209,Bankole O (T-ATX),Scheduled,C,Bankole Okunbolade,Travis Northwest,Radius 4,,Salsa Limï¿½n,Downtown,05/31/2024 07:52 PM (CDT),05/31/2024 08:20 PM (CDT),5125176663,Completed,,,0,0,0,0,0,110.08,18.62
 331384,Bankole O (T-ATX),Scheduled,D,Bankole Okunbolade,17141 Rocky Ridge Rd,Radius 5,,2223 Waterloo City Lane,,05/26/2024 08:05 PM (CDT),05/26/2024 08:46 PM (CDT),2103646167,Completed,,,3.33,0,0,1,0,315.91,28.97
 331345,Olalekan Shoetan (T-ATX),Scheduled,B,Olalekan Shoetan,Travis Northwest,Radius 5,,3233 Harmon Avenue,Downtown,05/26/2024 07:32 PM (CDT),05/26/2024 08:10 PM (CDT),9562802823,Completed,,,0,0,0,1,0,139.68,19.89
 331333,Bankole O (T-ATX),Scheduled,A,Bankole Okunbolade,Highland Lakes Marina,Radius 5,,Avenir Apartments,Downtown,05/26/2024 06:26 PM (CDT),05/26/2024 06:57 PM (CDT),6622136235,Completed,,,0,0,0,1,0,262.36,25.26
@@ -5733,7 +5732,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 322371,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,East End,,Downtown,Beez Kneez,Downtown,05/09/2024 09:59 PM (CDT),05/09/2024 10:07 PM (CDT),5132359468,Completed,,,0,0,0,1,0,68.97,1.14
 322280,Olalekan Shoetan (T-ATX),Ride Now,D,Olalekan Shoetan,Travis Southwest,,,516 East 6th Street,Downtown,05/09/2024 09:11 PM (CDT),05/09/2024 09:37 PM (CDT),5126198402,Completed,,,0.84,0,0,0,0,189.72,16.86
 322283,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,Bouldin Creek,,,GameOn! ATX,,05/09/2024 08:39 PM (CDT),05/09/2024 09:08 PM (CDT),2623138783,Completed,,,0,0,0,0,0,137.9,12.08
-322259,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,Cherrywood,,,IreneÕs,Downtown,05/09/2024 08:05 PM (CDT),05/09/2024 08:20 PM (CDT),7137519221,Completed,,,0,0,0,0,0,45.15,4.03
+322259,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,Cherrywood,,,Ireneï¿½s,Downtown,05/09/2024 08:05 PM (CDT),05/09/2024 08:20 PM (CDT),7137519221,Completed,,,0,0,0,0,0,45.15,4.03
 322251,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,West Campus,,Downtown,Quattro Gatti Ristorante e Pizzeria,Downtown,05/09/2024 07:52 PM (CDT),05/09/2024 08:02 PM (CDT),4696678105,Completed,,,0,0,0,0,0,48.06,1.29
 322212,Olalekan Shoetan (T-ATX),Ride Now,B,Olalekan Shoetan,Northfield,,,Brazos Hall,Downtown,05/09/2024 06:06 PM (CDT),05/09/2024 06:25 PM (CDT),3015251107,Completed,,,0,0,0,1,0,75.4,4.3
 322204,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,West Campus,,Downtown,1900 Red River St,Downtown,05/09/2024 05:30 PM (CDT),05/09/2024 05:45 PM (CDT),2107021510,Completed,,,0,0,0,0,0,67.61,0.98
@@ -5760,7 +5759,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 321567,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,Pemberton Heights,,Downtown,Santa Rita Cantina,Downtown,05/05/2024 07:08 PM (CDT),05/05/2024 07:14 PM (CDT),5125603853,Completed,,,0,0,0,0,0,42.88,1.34
 321556,Olalekan Shoetan (T-ATX),Ride Now,B,Olalekan Shoetan,East End,,,2817 E 22nd St,,05/05/2024 06:59 PM (CDT),05/05/2024 07:46 PM (CDT),5125993284,Completed,,,0,0,0,0,0,40.74,2.39
 321541,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,West Campus,,Downtown,Mayfair Austin,Downtown,05/05/2024 06:15 PM (CDT),05/05/2024 06:26 PM (CDT),7132899975,Completed,,,0,0,0,0,0,59.6,2.75
-321537,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Downtown Austin,,Downtown,Salsa Lim—n,Downtown,05/05/2024 06:00 PM (CDT),05/05/2024 06:12 PM (CDT),8324519061,Completed,,,0,0,0,0,0,57.96,3.99
+321537,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Downtown Austin,,Downtown,Salsa Limï¿½n,Downtown,05/05/2024 06:00 PM (CDT),05/05/2024 06:12 PM (CDT),8324519061,Completed,,,0,0,0,0,0,57.96,3.99
 321501,Olalekan Shoetan (T-ATX),Scheduled,A,Olalekan Shoetan,Torre Student Living,Radius 1,Downtown,16209 Dodd Street,,05/05/2024 03:20 PM (CDT),05/05/2024 03:57 PM (CDT),8589997575,Completed,,,0,0,0,0,0,178.56,20.49
 321505,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Travis Northwest,,,Alpha Chi Omega,Downtown,05/05/2024 03:16 PM (CDT),05/05/2024 03:49 PM (CDT),8327992481,Completed,,,0,0,0,0,0,134.01,20.5
 321499,Ralph E (T-ATX),Ride Now,C,Emeka Ralph,Travis Northwest,,,2420 Nueces Street,Downtown,05/05/2024 03:13 PM (CDT),05/05/2024 03:13 PM (CDT),7138053597,Completed,,,0,0,0,0,0,164.12,20.55
@@ -5866,7 +5865,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 316808,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,West Campus,,Downtown,222 East 6th Street,Downtown,04/29/2024 09:56 PM (CDT),04/29/2024 09:57 PM (CDT),2144444616,Completed,,,0,0,0,0,0,30.55,3.14
 316779,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,West Campus,,Downtown,222 East 6th Street,Downtown,04/29/2024 09:31 PM (CDT),04/29/2024 09:33 PM (CDT),2147271173,Completed,,,0,0,0,0,0,83.72,1.64
 316761,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,Rosedale,,Downtown,2701 Nueces Street,Downtown,04/29/2024 09:14 PM (CDT),04/29/2024 09:15 PM (CDT),2816851056,Completed,,,0,0,0,0,0,76.86,1.62
-316745,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,West Campus,,Downtown,IreneÕs,Downtown,04/29/2024 08:50 PM (CDT),04/29/2024 08:52 PM (CDT),4252637302,Completed,,,0,0,0,0,0,53.4,1.31
+316745,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,West Campus,,Downtown,Ireneï¿½s,Downtown,04/29/2024 08:50 PM (CDT),04/29/2024 08:52 PM (CDT),4252637302,Completed,,,0,0,0,0,0,53.4,1.31
 316731,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,West Campus,,Downtown,Polvo's Downtown Central,Downtown,04/29/2024 08:27 PM (CDT),04/29/2024 08:28 PM (CDT),7138825903,Completed,,,0,0,0,0,0,65.88,1.62
 316708,Ralph E (T-ATX),Ride Now,N/A,Emeka Ralph,The Drag,,Downtown,Spicy Szechuan,Downtown,04/29/2024 07:40 PM (CDT),04/29/2024 07:42 PM (CDT),8067821031,Completed,,,0,0,0,0,1,115.92,2.61
 316647,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,1801 Lavaca Street,,Downtown,Rain,Downtown,04/28/2024 11:20 PM (CDT),04/28/2024 11:26 PM (CDT),9729712931,Completed,,,0,0,0,0,0,53.3,1.27
@@ -5925,7 +5924,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 314275,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Aloft Austin Downtown,,Downtown,Mongers,Downtown,04/27/2024 05:24 PM (CDT),04/27/2024 05:44 PM (CDT),5125547158,Completed,,,0,0,0,1,0,92.88,4.87
 314210,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Woof Gang Bakery & Grooming Austin,,Downtown,Aba Austin,,04/27/2024 04:55 PM (CDT),04/27/2024 05:05 PM (CDT),7175729921,Completed,,,0,0,0,1,0,74.36,2.26
 314114,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,West Oak Hill,,,Ranch Austin Wedding Venue,,04/27/2024 04:00 PM (CDT),04/27/2024 04:07 PM (CDT),5052808494,Completed,,,0,0,0,1,0,85.32,3.14
-314040,Olalekan Shoetan (T-ATX),Scheduled,A,Olalekan Shoetan,16100 Dodd Street,Radius 5,,avid hotel Austin Ð Tech Ridge,,04/27/2024 03:22 PM (CDT),04/27/2024 04:03 PM (CDT),2148862250,Completed,,,0,0,0,0,0,159.3,22.24
+314040,Olalekan Shoetan (T-ATX),Scheduled,A,Olalekan Shoetan,16100 Dodd Street,Radius 5,,avid hotel Austin ï¿½ Tech Ridge,,04/27/2024 03:22 PM (CDT),04/27/2024 04:03 PM (CDT),2148862250,Completed,,,0,0,0,0,0,159.3,22.24
 313893,Olalekan Shoetan (T-ATX),Ride Now,AA,Olalekan Shoetan,West Campus,,Downtown,16209 Dodd Street,,04/27/2024 02:32 PM (CDT),04/27/2024 03:07 PM (CDT),4099969504,Completed,,,0,0,0,0,0,165.51,19.98
 313857,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,West Campus,,Downtown,516 East 6th Street,Downtown,04/27/2024 02:09 PM (CDT),04/27/2024 02:20 PM (CDT),9177763906,Completed,,,0,0,0,0,0,51.39,2.13
 313792,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,West Campus,,Downtown,Hardin House,Downtown,04/27/2024 01:50 PM (CDT),04/27/2024 01:56 PM (CDT),2146630420,Completed,,,0,0,0,0,0,72.24,0.89
@@ -6147,10 +6146,10 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 304927,Ralph E (T-ATX),Scheduled,A,Emeka Ralph,North Austin,Radius 3,,GameOn! ATX,,04/15/2024 06:21 PM (CDT),04/15/2024 06:35 PM (CDT),7133018142,Completed,,,0,0,0,1,0,83.16,2.69
 304924,Ralph E (T-ATX),Scheduled,C,Emeka Ralph,Element Austin at The Domain,Radius 4,Domain,10520 North Lamar Boulevard,,04/15/2024 04:36 PM (CDT),04/15/2024 04:47 PM (CDT),7133018142,Completed,,,0,0,0,1,0,76.56,2.75
 304888,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Travis Northwest,,,2101 Rivers Edge Way,,04/14/2024 07:47 PM (CDT),04/14/2024 08:26 PM (CDT),5129610616,Completed,,,0,0,0,0,0,271.96,30.55
-304874,Ralph E (T-ATX),Ride Now,AA,Emeka Ralph,Perry-Casta–eda Library,,Downtown,1207 Barton Springs Rd,Downtown,04/14/2024 05:57 PM (CDT),04/14/2024 05:59 PM (CDT),4692686899,Completed,,,0,0,0,0,0,70.92,2.64
+304874,Ralph E (T-ATX),Ride Now,AA,Emeka Ralph,Perry-Castaï¿½eda Library,,Downtown,1207 Barton Springs Rd,Downtown,04/14/2024 05:57 PM (CDT),04/14/2024 05:59 PM (CDT),4692686899,Completed,,,0,0,0,0,0,70.92,2.64
 304872,Olalekan Shoetan (T-ATX),Ride Now,B,Olalekan Shoetan,West Campus,,Downtown,1207 Barton Springs Rd,Downtown,04/14/2024 05:55 PM (CDT),04/14/2024 06:07 PM (CDT),8329557033,Completed,,,0,0,0,0,0,81.48,2.39
 304868,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Convention Center District,,Downtown,Salty Sow,Downtown,04/14/2024 05:37 PM (CDT),04/14/2024 05:47 PM (CDT),8327417823,Completed,,,0,0,0,1,0,27.2,2.36
-304848,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,North University,,Downtown,IreneÕs,Downtown,04/14/2024 03:23 PM (CDT),04/14/2024 03:29 PM (CDT),8322728911,Completed,,,0,0,0,0,0,39.55,2
+304848,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,North University,,Downtown,Ireneï¿½s,Downtown,04/14/2024 03:23 PM (CDT),04/14/2024 03:29 PM (CDT),8322728911,Completed,,,0,0,0,0,0,39.55,2
 304835,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,Pleasant Valley,,,VIP Marina Lake Travis,,04/14/2024 02:07 PM (CDT),04/14/2024 03:01 PM (CDT),5129610616,Completed,,,0,0,0,0,0,271.44,30.5
 304832,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,East Cesar Chavez,,,Banger's,Downtown,04/14/2024 01:23 PM (CDT),04/14/2024 01:27 PM (CDT),8474947714,Completed,,,0,0,0,0,0,30.54,0.75
 304803,Ralph E (T-ATX),Scheduled,B,Emeka Ralph,3101 Govalle Avenue,Radius 2,,17141 Rocky Ridge Road,,04/14/2024 09:31 AM (CDT),04/14/2024 10:19 AM (CDT),8509338415,Completed,,,0,0,0,0,0,263.34,27.03
@@ -6192,7 +6191,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 303294,Bankole O (T-ATX),Scheduled,B,Bankole Okunbolade,The Drag,Radius 1,Downtown,Matt's El Rancho,,04/13/2024 08:40 PM (CDT),04/13/2024 08:49 PM (CDT),8179085178,Completed,,,0,0,0,0,0,72.93,4.53
 303241,Ralph E (T-ATX),Ride Now,N/A,Emeka Ralph,Downtown Austin,,,Austin Garden & Studio,Downtown,04/13/2024 08:20 PM (CDT),04/13/2024 08:23 PM (CDT),3017589740,Completed,,,0,0,0,0,1,86.38,1.03
 303176,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,Delta Gamma,,Downtown,1417 French Bistro,,04/13/2024 07:54 PM (CDT),04/13/2024 08:05 PM (CDT),2812160332,Completed,,,0,0,0,0,0,54.63,3.03
-303145,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,West Campus,,Downtown,IreneÕs,Downtown,04/13/2024 07:35 PM (CDT),04/13/2024 07:41 PM (CDT),8323714720,Completed,,,0,0,0,0,0,73.48,2.18
+303145,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,West Campus,,Downtown,Ireneï¿½s,Downtown,04/13/2024 07:35 PM (CDT),04/13/2024 07:41 PM (CDT),8323714720,Completed,,,0,0,0,0,0,73.48,2.18
 303106,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,The Drag,,Downtown,1206 West 38th Street,Downtown,04/13/2024 07:16 PM (CDT),04/13/2024 07:25 PM (CDT),8178514264,Completed,,,0,0,0,0,0,47.92,2.84
 303074,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,Central East Austin,,,The Austin Beer Garden Brewing Co.,,04/13/2024 07:12 PM (CDT),04/13/2024 07:25 PM (CDT),3305466044,Completed,,,0,0,0,0,0,76.23,5.44
 303047,Ralph E (T-ATX),Ride Now,C,Emeka Ralph,Windsor Park,,,601 Rio Grande Street,Downtown,04/13/2024 07:01 PM (CDT),04/13/2024 07:16 PM (CDT),7702036774,Completed,,,0,0,0,0,0,76.01,5.36
@@ -6301,7 +6300,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 299654,Olalekan Shoetan (T-ATX),Scheduled,D,Olalekan Shoetan,1513 Manana Street,Radius 3,,De Nada Cantina,,04/07/2024 05:56 PM (CDT),04/07/2024 06:38 PM (CDT),5302284991,Completed,,,0.5,0,0,1,0,239.98,23.94
 299645,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,South Austin,,,Lady Bird Johnson Wildflower Center,,04/07/2024 03:42 PM (CDT),04/07/2024 04:00 PM (CDT),5126296095,Completed,,,0,0,0,1,0,58.45,6.84
 299634,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Zilker,,,13987 Farm to Market Road 2769,,04/07/2024 02:04 PM (CDT),04/07/2024 02:42 PM (CDT),9087232942,Completed,,,0,0,0,0,0,180.57,18.84
-299625,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,LouÕs Eastside,,,Austin-Bergstrom International Airport (AUS),,04/07/2024 12:11 PM (CDT),04/07/2024 12:42 PM (CDT),4254959444,Completed,,,0,0,0,0,0,60.27,10.02
+299625,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Louï¿½s Eastside,,,Austin-Bergstrom International Airport (AUS),,04/07/2024 12:11 PM (CDT),04/07/2024 12:42 PM (CDT),4254959444,Completed,,,0,0,0,0,0,60.27,10.02
 299618,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,East Cesar Chavez,,,Austin-Bergstrom International Airport (AUS),,04/07/2024 11:16 AM (CDT),04/07/2024 11:35 AM (CDT),6055532396,Completed,,,0,0,0,0,0,63.07,10.7
 299568,Bankole O (T-ATX),Ride Now,BB,Bankole Okunbolade,Market District,,Downtown,903 E 3rd St,Downtown,04/07/2024 02:33 AM (CDT),04/07/2024 02:39 AM (CDT),2149231936,Completed,,,0,0,0,0,0,64.9,1.43
 299543,Ralph E (T-ATX),Ride Now,BB,Emeka Ralph,Market District,,Downtown,West Campus Liquor,Downtown,04/07/2024 02:26 AM (CDT),04/07/2024 02:26 AM (CDT),9565548366,Completed,,,0,0,0,0,0,71.58,1.65
@@ -6363,7 +6362,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 296516,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,West Campus,,Downtown,Grizzelda's,,04/05/2024 08:40 PM (CDT),04/05/2024 08:55 PM (CDT),6822265655,Completed,,,0,0,0,0,0,46.13,4.41
 296487,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,South Lamar,,,Uchiko Austin,Downtown,04/05/2024 08:18 PM (CDT),04/05/2024 08:36 PM (CDT),8189397261,Completed,,,0,0,0,0,0,97.58,5.57
 296474,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,North University,,Downtown,University of Texas FIJI house,Downtown,04/05/2024 08:12 PM (CDT),04/05/2024 08:16 PM (CDT),5129090444,Completed,,,0,0,0,1,0,83.58,0.48
-296392,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,West Campus,,Downtown,IreneÕs,Downtown,04/05/2024 07:08 PM (CDT),04/05/2024 07:10 PM (CDT),8054059604,Completed,,,0,0,0,0,0,39.2,1.86
+296392,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,West Campus,,Downtown,Ireneï¿½s,Downtown,04/05/2024 07:08 PM (CDT),04/05/2024 07:10 PM (CDT),8054059604,Completed,,,0,0,0,0,0,39.2,1.86
 296251,Olalekan Shoetan (T-ATX),Ride Now,B,Olalekan Shoetan,The Drag,,Downtown,Shady Springs Party Barn,,04/05/2024 05:48 PM (CDT),04/05/2024 06:13 PM (CDT),2145320338,Completed,,,0,0,0,0,0,108.92,8.28
 296249,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,West Campus,,Downtown,Shady Springs Party Barn,,04/05/2024 05:45 PM (CDT),04/05/2024 06:26 PM (CDT),9177763906,Completed,,,0,0,0,0,0,146.16,13.08
 296233,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,West Campus,,Downtown,UFCU Disch-Falk Field,Downtown,04/05/2024 05:20 PM (CDT),04/05/2024 05:34 PM (CDT),2813819483,Completed,,,0,0,0,0,0,33.6,1.86
@@ -6693,7 +6692,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 286118,Bankole O (T-ATX),Ride Now,C,Bankole Okunbolade,1706 West 10th Street,,Downtown,Walsh Boat Landing,,03/15/2024 11:52 AM (CDT),03/15/2024 12:49 PM (CDT),3146833423,Completed,,,0,0,0,0,0,52.56,2.44
 286072,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,Oak Springs,,,Mayfair Austin,Downtown,03/14/2024 10:42 PM (CDT),03/14/2024 11:00 PM (CDT),5122229460,Completed,,,0,0,0,1,0,43.86,3.63
 286047,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,South Congress,,,Stubbs BBQ,Downtown,03/14/2024 08:42 PM (CDT),03/14/2024 08:55 PM (CDT),6507141014,Completed,,,0,0,0,0,0,39.48,1.97
-286039,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,FACE FOUNDRIƒ - Austin (South Congress),,,2707 South 1st Street,,03/14/2024 07:51 PM (CDT),03/14/2024 07:59 PM (CDT),2818658355,Completed,,,0,0,0,0,0,16.56,1.7
+286039,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,FACE FOUNDRIï¿½ - Austin (South Congress),,,2707 South 1st Street,,03/14/2024 07:51 PM (CDT),03/14/2024 07:59 PM (CDT),2818658355,Completed,,,0,0,0,0,0,16.56,1.7
 286011,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Travis Southwest,,,1513 Manana Street,,03/14/2024 06:29 PM (CDT),03/14/2024 06:29 PM (CDT),8322475599,Completed,2024-03-14 18:29:08,the customer uses uber,0,0,0,0,0,152.16,16.21
 285993,Ralph E (T-ATX),Scheduled,D,Emeka Ralph,Travis Northwest,Radius 3,,17141 Rocky Ridge Road,,03/14/2024 02:25 PM (CDT),03/14/2024 03:02 PM (CDT),2814137932,Completed,,,0.83,0,0,1,0,202.3,16.12
 285964,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,East End,,Downtown,501 Brushy Street,Downtown,03/13/2024 09:11 PM (CDT),03/13/2024 09:19 PM (CDT),7372648311,Completed,,,0,0,0,0,0,39.6,0.39
@@ -6803,7 +6802,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 281668,Bankole O (T-ATX),Scheduled,N/A,Bankole Okunbolade,Rosedale,Radius 2,,Stubbs BBQ,Downtown,03/02/2024 07:49 PM (CST),03/02/2024 08:01 PM (CST),5046169730,Completed,,,0,0,0,0,1,82.32,5.21
 281597,Bankole O (T-ATX),Ride Now,AA,Bankole Okunbolade,West Campus,,Downtown,Pour Choices,Downtown,03/02/2024 07:21 PM (CST),03/02/2024 07:28 PM (CST),4045947777,Completed,,,0,0,0,0,0,58.62,2.51
 281559,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,SkyHouse,,,Latchkey,Downtown,03/02/2024 07:20 PM (CST),03/02/2024 07:29 PM (CST),2158582237,Completed,,,0,0,0,0,0,73.78,1.13
-281569,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,West Campus,,Downtown,Salsa Lim—n,Downtown,03/02/2024 07:05 PM (CST),03/02/2024 07:09 PM (CST),4693527722,Completed,,,0,0,0,0,0,36.33,0.96
+281569,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,West Campus,,Downtown,Salsa Limï¿½n,Downtown,03/02/2024 07:05 PM (CST),03/02/2024 07:09 PM (CST),4693527722,Completed,,,0,0,0,0,0,36.33,0.96
 281431,Ralph E (T-ATX),Scheduled,D,Emeka Ralph,Travis Southwest,Radius 6,,Easy Tiger - South,,03/02/2024 06:40 PM (CST),03/02/2024 07:28 PM (CST),2814551601,Completed,,,4.55,0,0,0,0,229.41,28.92
 281497,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,South Congress,,,Bull & Bowl,Downtown,03/02/2024 06:36 PM (CST),03/02/2024 06:50 PM (CST),3375153028,Completed,,,0,0,0,0,0,43.44,1.49
 281436,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Parker Lane,,,7311 Decker Ln,,03/02/2024 06:03 PM (CST),03/02/2024 06:22 PM (CST),5128185872,Completed,,,0,0,0,0,0,98.19,13.49
@@ -6871,7 +6870,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 279017,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,The Drag,,Downtown,Santa Rita Cantina,Downtown,02/29/2024 07:30 PM (CST),02/29/2024 07:37 PM (CST),5126614002,Completed,,,0,0,0,0,0,46,2.23
 278994,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,West Campus,,Downtown,222 East 6th Street,Downtown,02/29/2024 07:18 PM (CST),02/29/2024 07:23 PM (CST),5129144770,Completed,,,0,0,0,0,0,79.52,2.06
 278967,Ralph E (T-ATX),Scheduled,A,Emeka Ralph,Kappa Sigma,Radius 1,Downtown,Chuy's,Downtown,02/29/2024 06:50 PM (CST),02/29/2024 07:00 PM (CST),7132018001,Completed,,,0,0,0,0,0,84,2.86
-278966,Olalekan Shoetan (T-ATX),Scheduled,A,Olalekan Shoetan,West Campus,Radius 1,Downtown,IreneÕs,Downtown,02/29/2024 06:48 PM (CST),02/29/2024 07:02 PM (CST),5128267448,Completed,,,0,0,0,0,0,75.04,1.35
+278966,Olalekan Shoetan (T-ATX),Scheduled,A,Olalekan Shoetan,West Campus,Radius 1,Downtown,Ireneï¿½s,Downtown,02/29/2024 06:48 PM (CST),02/29/2024 07:02 PM (CST),5128267448,Completed,,,0,0,0,0,0,75.04,1.35
 278617,Ralph E (T-ATX),Ride Now,BB,Emeka Ralph,Sixth Street,,Downtown,Signature 1909,Downtown,02/25/2024 02:36 AM (CST),02/25/2024 02:45 AM (CST),5129954209,Completed,,,0,0,0,0,0,88.33,1.98
 278648,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,Downtown Austin,,Downtown,10704 Fulton Avenue,,02/25/2024 02:35 AM (CST),02/25/2024 02:50 AM (CST),7015415380,Completed,,,0,0,0,0,0,80.19,10.41
 278640,Olalekan Shoetan (T-ATX),Ride Now,AA,Olalekan Shoetan,Hancock,,Downtown,Space Siete,Downtown,02/25/2024 02:29 AM (CST),02/25/2024 02:36 AM (CST),9565378776,Completed,,,0,0,0,0,0,40.39,2.28
@@ -6971,7 +6970,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 275017,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Sixth Street,,Downtown,2300 San Antonio Street,Downtown,02/22/2024 09:44 PM (CST),02/22/2024 09:55 PM (CST),3109532623,Completed,,,0,0,0,0,0,48.24,2.93
 274993,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,Heritage,,Downtown,Shangri-La,Downtown,02/22/2024 09:29 PM (CST),02/22/2024 09:38 PM (CST),9548560103,Completed,,,0,0,0,0,0,44.03,3.57
 274957,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Bouldin Creek,,,The Callaway House Austin,Downtown,02/22/2024 09:18 PM (CST),02/22/2024 09:26 PM (CST),3109238276,Completed,,,0,0,0,0,0,63.8,3.82
-274939,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,University Campus,,Downtown,Salsa Lim—n,Downtown,02/22/2024 09:09 PM (CST),02/22/2024 09:18 PM (CST),2142808163,Completed,,,0,0,0,0,0,36.96,1.17
+274939,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,University Campus,,Downtown,Salsa Limï¿½n,Downtown,02/22/2024 09:09 PM (CST),02/22/2024 09:18 PM (CST),2142808163,Completed,,,0,0,0,0,0,36.96,1.17
 274847,Ralph E (T-ATX),Ride Now,B,Emeka Ralph,The Drag,,Downtown,Speakeasy,Downtown,02/22/2024 08:29 PM (CST),02/22/2024 08:35 PM (CST),4807988830,Completed,,,0,0,0,0,0,79.1,2
 274870,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,South Lamar,,,SkyHouse,,02/22/2024 08:27 PM (CST),02/22/2024 08:36 PM (CST),2158582237,Completed,,,0,0,0,0,0,66.9,4.7
 274826,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,Rosedale,,Downtown,Buford's,Downtown,02/22/2024 08:06 PM (CST),02/22/2024 08:12 PM (CST),2148702466,Completed,,,0,0,0,0,0,85.82,3.19
@@ -6993,7 +6992,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 274322,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Downtown Austin,,Downtown,The Rustic Tap,Downtown,02/18/2024 05:29 PM (CST),02/18/2024 05:40 PM (CST),3037260746,Completed,,,0,0,0,0,0,64.2,1.31
 274311,Olalekan Shoetan (T-ATX),Scheduled,A,Olalekan Shoetan,West Campus,Radius 1,Downtown,Banger's,Downtown,02/18/2024 05:16 PM (CST),02/18/2024 05:29 PM (CST),6315607307,Completed,,,0,0,0,0,0,59.6,2.73
 274317,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Market District,,Downtown,The Arnold,,02/18/2024 05:05 PM (CST),02/18/2024 05:15 PM (CST),5125253585,Completed,,,0,0,0,1,0,52.48,1.79
-274292,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Shoal Crest,,Downtown,BangerÕs outdoor theater,Downtown,02/18/2024 04:06 PM (CST),02/18/2024 04:18 PM (CST),5123662705,Completed,,,0,0,0,0,0,51.2,3.88
+274292,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Shoal Crest,,Downtown,Bangerï¿½s outdoor theater,Downtown,02/18/2024 04:06 PM (CST),02/18/2024 04:18 PM (CST),5123662705,Completed,,,0,0,0,0,0,51.2,3.88
 274272,Bankole O (T-ATX),Ride Now,C,Bankole Okunbolade,Tarrytown,,Downtown,UFCU Disch-Falk Field,Downtown,02/18/2024 02:23 PM (CST),02/18/2024 02:36 PM (CST),8324596980,Completed,,,0,0,1,0,0,65.6,4.34
 274264,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Downtown Austin,,Downtown,Clive,Downtown,02/18/2024 12:45 PM (CST),02/18/2024 12:53 PM (CST),6318973377,Completed,,,0,0,0,0,0,43.2,1.43
 274261,Bankole O (T-ATX),Scheduled,C,Bankole Okunbolade,Lamplight Village,Radius 4,,602 E 4th St,Downtown,02/18/2024 11:46 AM (CST),02/18/2024 12:13 PM (CST),8477697875,Completed,,,0,0,0,1,0,118.9,13.45
@@ -7131,7 +7130,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 268620,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,Red River District,,Downtown,706 West 26th Street,Downtown,02/10/2024 02:09 AM (CST),02/10/2024 02:20 AM (CST),9155431373,Completed,,,0,0,0,0,0,56.52,3.19
 268610,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,Market District,,Downtown,4008 Valley View Road,,02/10/2024 02:07 AM (CST),02/10/2024 02:20 AM (CST),9709010778,Completed,,,0,0,0,0,0,93.38,4.27
 268601,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Sixth Street,,Downtown,Hardin House,Downtown,02/10/2024 02:00 AM (CST),02/10/2024 02:10 AM (CST),2148080641,Completed,,,0,0,0,0,0,39.55,1.8
-268570,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,Sixth Street,,Downtown,Jacques DujariŽ Hall,,02/10/2024 01:45 AM (CST),02/10/2024 01:55 AM (CST),5127834646,Completed,,,0,0,0,0,0,46.48,4.15
+268570,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,Sixth Street,,Downtown,Jacques Dujariï¿½ Hall,,02/10/2024 01:45 AM (CST),02/10/2024 01:55 AM (CST),5127834646,Completed,,,0,0,0,0,0,46.48,4.15
 268543,Olalekan Shoetan (T-ATX),Ride Now,A,Olalekan Shoetan,Sixth Street,,Downtown,2223 Waterloo City Lane,,02/10/2024 01:15 AM (CST),02/10/2024 01:24 AM (CST),5129703663,Completed,,,0,0,0,0,0,41.37,2.34
 268532,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,East End,,,5200 Knight Circle,,02/10/2024 12:58 AM (CST),02/10/2024 01:10 AM (CST),7633700119,Completed,,,0,0,0,0,0,54.72,4.74
 268506,Ralph E (T-ATX),Ride Now,A,Emeka Ralph,Sixth Street,,Downtown,Parlor and Yard,Downtown,02/10/2024 12:30 AM (CST),02/10/2024 12:36 AM (CST),8328179588,Completed,,,0,0,0,0,0,70.98,0.64
@@ -7395,7 +7394,7 @@ ride_id,vehicle_number,ride_type,proximity,driver_name,pickup,radius_schedule_pi
 254793,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,East End,,Downtown,The Cat's Pajamas,Downtown,01/12/2024 11:04 PM (CST),01/12/2024 11:08 PM (CST),7276926486,Completed,,,0,0,0,0,0,32.94,1.32
 254741,Bankole O (T-ATX),Ride Now,B,Bankole Okunbolade,St. Edwards,,,The Volstead Lounge,,01/12/2024 10:45 PM (CST),01/12/2024 10:52 PM (CST),2253843312,Completed,,,0,0,0,1,0,54.81,4.26
 254720,Gustavo Vehicle,Ride Now,C,Gustavo Ortlieb,Montopolis,,,Buford's,Downtown,01/12/2024 10:32 PM (CST),01/12/2024 10:52 PM (CST),9495548801,Completed,,,0,0,0,0,0,81.29,5.98
-254716,Charles U (APEX),Ride Now,B,Charles Mondia,Govalle,,,Oilcan HarryÕs,Downtown,01/12/2024 10:27 PM (CST),01/12/2024 10:41 PM (CST),5124227256,Completed,,,0,0,0,0,0,57.15,3.04
+254716,Charles U (APEX),Ride Now,B,Charles Mondia,Govalle,,,Oilcan Harryï¿½s,Downtown,01/12/2024 10:27 PM (CST),01/12/2024 10:41 PM (CST),5124227256,Completed,,,0,0,0,0,0,57.15,3.04
 254684,Gustavo Vehicle,Ride Now,A,Gustavo Ortlieb,The Drag,,Downtown,The Lucky Duck,Downtown,01/12/2024 10:05 PM (CST),01/12/2024 10:16 PM (CST),2819106042,Completed,,,0,0,0,0,0,86.8,2.68
 254665,Bankole O (T-ATX),Ride Now,A,Bankole Okunbolade,2700 Esperanza Crossing,,Domain,11301 Domain Dr,Domain,01/12/2024 09:37 PM (CST),01/12/2024 09:39 PM (CST),5128504945,Completed,,,0,0,0,1,0,84.28,0.47
 254583,Charles U (APEX),Ride Now,D,Charles Mondia,South Austin,,,GameOn! ATX,,01/12/2024 08:48 PM (CST),01/12/2024 09:14 PM (CST),3615716340,Completed,,,0.64,0,0,0,0,195.39,18.38
