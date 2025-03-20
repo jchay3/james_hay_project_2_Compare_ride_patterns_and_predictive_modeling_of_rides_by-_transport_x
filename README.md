@@ -22,7 +22,7 @@ EDA: Identify trends, peak ride times, ride demand patterns, and the distributio
 Data Cleaning and Preperation: Handled missing values and ensured that data was in a usuable format for machine learning models. Standardized time formats, and created rush hour, hour, and precipitation categories
 Predictive modeling: Developed a demand forecasting model using ride ride metrics and weather
 Feature engineering: Created new variables such as Rush hour Rides and precipation category to better improve model accuracy
-Hypertuning- Balanced precipition data sets to prevent overfitting, utilized grid search to identify best Random Forest model
+Hyperparameter tuning- Balanced precipition data sets to prevent overfitting, utilized grid search to identify best Random Forest model
 
 Tools & Technologies
 
@@ -44,11 +44,11 @@ Clone the repository:
 
 git clone https://github.com/jchay3/james_hay_project_2_Compare_ride_patterns_and_predictive_modeling_of_rides_by-_transport_x.git
 
-Install dependencies:
 
-pip install -r requirements.txt
+
 
 Open the Jupyter Notebook and run the analysis:
+Install dependencies
 
 jupyter notebook james_workbook_for_austin.ipynb
 james_workbook_for_atlanta.ipynb
